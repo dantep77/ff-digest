@@ -2,7 +2,7 @@
 import argparse
 
 import config
-from fetcher.ingest import fetch_and_store_injuries, fetch_and_store_rankings
+from fetcher.ingest import fetch_and_store_injuries, fetch_and_store_news, fetch_and_store_rankings
 from insights.llm_summary import generate_narrative
 from insights.rules import generate_insights
 from mailer.render import render_digest
@@ -21,6 +21,9 @@ def run(dry_run: bool = False) -> None:
     n_injuries = fetch_and_store_injuries(conn, year=config.SEASON)
     print(f"Fetched {n_injuries} injuries")
 
+    news = fetch_and_store_news(conn)
+    print(f"Found {len(news)} new news items")
+
     insights = generate_insights(conn, config.SEASON, config.SCORING, config.POSITIONS)
     print(f"Generated {len(insights)} insights")
 
@@ -28,7 +31,8 @@ def run(dry_run: bool = False) -> None:
     if narrative:
         print("Generated LLM narrative")
 
-    html = render_digest(insights, config.SCORING, narrative=narrative)
+    top_news = news[:5]
+    html = render_digest(insights, config.SCORING, news=top_news, narrative=narrative)
 
     if dry_run:
         from pathlib import Path

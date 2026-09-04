@@ -10,7 +10,7 @@ TEMPLATE_DIR = Path(__file__).parent / "templates"
 _env = Environment(loader=FileSystemLoader(TEMPLATE_DIR), autoescape=True)
 
 
-def render_digest(insights: list[Insight], scoring: str, narrative: str | None = None) -> str:
+def render_digest(insights: list[Insight], scoring: str, news: list[dict] | None = None, narrative: str | None = None) -> str:
     template = _env.get_template("digest.html.j2")
     return template.render(
         generated_at=datetime.now(timezone.utc).strftime("%a %b %d, %Y %H:%M UTC"),
@@ -18,6 +18,7 @@ def render_digest(insights: list[Insight], scoring: str, narrative: str | None =
         movers=[i for i in insights if i.type == "mover"],
         injuries=[i for i in insights if i.type == "injury"],
         disagreements=[i for i in insights if i.type == "disagreement"],
+        news=news or [],
         narrative=narrative,
     )
 

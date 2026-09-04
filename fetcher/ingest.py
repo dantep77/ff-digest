@@ -95,6 +95,29 @@ def fetch_and_store_injuries(conn, year: str, week: int | None = None) -> int:
     return len(injuries)
 
 
+def _normalize_news_row(row: dict) -> dict:
+    return {
+        "item_id": row["id"],
+        "player_id": row.get("player_id") or None,
+        "title": row.get("title"),
+        "link": row.get("link"),
+        "category": ", ".join(row.get("categories") or []) if isinstance(row.get("categories"), list) else row.get("categories"),
+        "impact": row.get("impact"),
+        "created": row.get("created"),
+    }
+
+
+def fetch_and_store_news(conn, limit: int = 25) -> list[dict]:
+    """Fetch recent news and return only items not seen on a prior pull."""
+    data = fp.get_news(limit=limit)
+    items = data.get("items", [])
+
+    pulled_at = db.now()
+    db.insert_raw_pull(conn, "news", {"limit": limit}, data, pulled_at=pulled_at)
+    db.upsert_news_items(conn, pulled_at, [_normalize_news_row(row) for row in items])
+    return [dict(r) for r in db.get_new_news_items(conn, pulled_at, limit=limit)]
+
+
 if __name__ == "__main__":
     import config as cfg
 
@@ -109,6 +132,9 @@ if __name__ == "__main__":
 
     n_injuries = fetch_and_store_injuries(conn, year=cfg.SEASON)
     print(f"Stored {n_injuries} injuries")
+
+    new_news = fetch_and_store_news(conn)
+    print(f"Stored {len(new_news)} new news items")
 
     conn.close()
     print(f"Done. {total} ranking rows, {n_injuries} injury rows stored.")

@@ -25,10 +25,14 @@ def _now() -> str:
     return datetime.now(timezone.utc).isoformat()
 
 
-def insert_raw_pull(conn: sqlite3.Connection, endpoint: str, params: dict, response: dict) -> int:
+def now() -> str:
+    return _now()
+
+
+def insert_raw_pull(conn: sqlite3.Connection, endpoint: str, params: dict, response: dict, pulled_at: str | None = None) -> int:
     cur = conn.execute(
         "INSERT INTO raw_pulls (pulled_at, endpoint, params_json, response_json) VALUES (?, ?, ?, ?)",
-        (_now(), endpoint, json.dumps(params), json.dumps(response)),
+        (pulled_at or _now(), endpoint, json.dumps(params), json.dumps(response)),
     )
     conn.commit()
     return cur.lastrowid
@@ -161,4 +165,25 @@ def get_injuries_at(conn: sqlite3.Connection, pulled_at: str) -> list[sqlite3.Ro
         WHERE ih.pulled_at = ?
         """,
         (pulled_at,),
+    ).fetchall()
+
+
+def upsert_news_items(conn: sqlite3.Connection, pulled_at: str, items: list[dict]) -> None:
+    """Insert news items not already seen. Existing items keep their original
+    first_seen_pulled_at, so this pull's timestamp only lands on genuinely new items."""
+    conn.executemany(
+        """
+        INSERT INTO news_items (item_id, player_id, title, link, category, impact, created, first_seen_pulled_at)
+        VALUES (:item_id, :player_id, :title, :link, :category, :impact, :created, :pulled_at)
+        ON CONFLICT(item_id) DO NOTHING
+        """,
+        [{"pulled_at": pulled_at, **item} for item in items],
+    )
+    conn.commit()
+
+
+def get_new_news_items(conn: sqlite3.Connection, pulled_at: str, limit: int = 5) -> list[sqlite3.Row]:
+    return conn.execute(
+        "SELECT * FROM news_items WHERE first_seen_pulled_at = ? ORDER BY created DESC LIMIT ?",
+        (pulled_at, limit),
     ).fetchall()

@@ -11,6 +11,20 @@ from storage import db
 MOVER_THRESHOLD = 5          # min |delta| in rank_ecr to flag as a mover
 DISAGREEMENT_STD_THRESHOLD = 3.0   # min rank_std to flag as high expert disagreement
 
+# K/DST are low-signal positions -- only surface them when the swing is
+# genuinely wild, not the routine noise that's typical for those positions.
+LOW_SIGNAL_POSITIONS = {"K", "DST"}
+LOW_SIGNAL_MOVER_THRESHOLD = 10
+LOW_SIGNAL_DISAGREEMENT_STD_THRESHOLD = 6.0
+
+
+def _mover_threshold(position: str) -> int:
+    return LOW_SIGNAL_MOVER_THRESHOLD if position in LOW_SIGNAL_POSITIONS else MOVER_THRESHOLD
+
+
+def _disagreement_threshold(position: str) -> float:
+    return LOW_SIGNAL_DISAGREEMENT_STD_THRESHOLD if position in LOW_SIGNAL_POSITIONS else DISAGREEMENT_STD_THRESHOLD
+
 
 @dataclass
 class Insight:
@@ -34,7 +48,7 @@ def find_ranking_movers(conn, season: str, position: str, scoring: str) -> list[
         if prev is None or prev["rank_ecr"] is None or row["rank_ecr"] is None:
             continue
         delta = prev["rank_ecr"] - row["rank_ecr"]  # positive = moved up (better rank)
-        if abs(delta) >= MOVER_THRESHOLD:
+        if abs(delta) >= _mover_threshold(position):
             direction = "up" if delta > 0 else "down"
             insights.append(
                 Insight(
@@ -86,7 +100,7 @@ def find_expert_disagreement(conn, season: str, position: str, scoring: str) -> 
 
     insights = []
     for row in db.get_rankings_at(conn, season, position, scoring, latest_ts):
-        if row["rank_std"] is not None and row["rank_std"] >= DISAGREEMENT_STD_THRESHOLD:
+        if row["rank_std"] is not None and row["rank_std"] >= _disagreement_threshold(position):
             detail = f"High expert disagreement: rank {row['rank_min']}-{row['rank_max']} (std {row['rank_std']})"
 
             expert_ranks = json.loads(row["experts_json"] or "{}")
