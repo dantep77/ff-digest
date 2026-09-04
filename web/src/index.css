@@ -1,0 +1,118 @@
+:root {
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, "Segoe UI", Arial, sans-serif;
+  background: #f4f5f7;
+  color: #1a1a1a;
+}
+
+.container {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 24px 16px;
+}
+
+h1 {
+  font-size: 22px;
+  margin: 0 0 4px;
+}
+
+.subtitle {
+  color: #666;
+  font-size: 13px;
+  margin: 0 0 24px;
+}
+
+a {
+  color: #1a56db;
+}
+
+.section {
+  background: #fff;
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 16px;
+  border: 1px solid #e5e5e5;
+}
+
+.section h2 {
+  font-size: 15px;
+  margin: 0 0 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: #444;
+}
+
+.insight,
+.news-item,
+.report-row {
+  padding: 8px 0;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 14px;
+}
+
+.insight:last-child,
+.news-item:last-child,
+.report-row:last-child {
+  border-bottom: none;
+}
+
+.report-row a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.report-row a:hover {
+  text-decoration: underline;
+}
+
+.report-row .meta {
+  color: #888;
+  font-size: 12px;
+  margin-top: 2px;
+}
+
+.player {
+  font-weight: 600;
+}
+
+.position {
+  color: #888;
+  font-size: 12px;
+}
+
+.news-item a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.news-item a:hover {
+  text-decoration: underline;
+}
+
+.empty {
+  color: #999;
+  font-size: 13px;
+  font-style: italic;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 16px;
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.footer {
+  text-align: center;
+  color: #aaa;
+  font-size: 11px;
+  margin-top: 24px;
+}

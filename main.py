@@ -6,6 +6,7 @@ from fetcher.ingest import fetch_and_store_injuries, fetch_and_store_news, fetch
 from insights.llm_summary import generate_narrative
 from insights.rules import generate_insights
 from mailer.render import render_digest
+from mailer.report_store import save_report
 from mailer.send import send_via_resend
 from storage import db
 
@@ -32,6 +33,7 @@ def run(dry_run: bool = False) -> None:
         print("Generated LLM narrative")
 
     top_news = news[:5]
+    subject = "Your FF Digest"
     html = render_digest(insights, config.SCORING, news=top_news, narrative=narrative)
 
     if dry_run:
@@ -40,8 +42,11 @@ def run(dry_run: bool = False) -> None:
         out_path.write_text(html, encoding="utf-8")
         print(f"Dry run: wrote {out_path.resolve()} instead of sending")
     else:
-        result = send_via_resend(subject="Your FF Digest", html=html)
+        result = send_via_resend(subject=subject, html=html)
         print(f"Sent. id={result.get('id')}")
+
+        report = save_report(insights, top_news, config.SCORING, subject, resend_id=result.get("id"), narrative=narrative)
+        print(f"Saved report {report['id']}")
 
     conn.close()
 
