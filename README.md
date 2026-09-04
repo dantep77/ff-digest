@@ -39,9 +39,9 @@ python main.py             # fetches, generates insights, and sends a real email
 - **`FANTASYPROS_API_KEY` free tier is limited to ~10 players per position per
   pull** (`public_api_limited: true` in the API response). Insight rules and
   templates work fine at that scale; upgrade the key for full-roster coverage.
-- Package is named `mailer/`, not `email/` (per PLAN.md's original structure) --
-  `email` is a Python stdlib module name and shadowing it breaks `httpx`
-  (which imports `email.parser` internally).
+- Package is named `mailer/`, not `email/` -- `email` is a Python stdlib
+  module name and shadowing it breaks `httpx` (which imports `email.parser`
+  internally).
 - The LLM narrative layer is feature-flagged: it's skipped automatically if
   `ANTHROPIC_API_KEY` is unset, and any API error falls back to the rules-only
   email rather than failing the whole run.
