@@ -3,8 +3,8 @@ name: FF Digest
 on:
   workflow_dispatch: {}
   schedule:
-    # Tuesday and Sunday mornings, 12:00 UTC
-    - cron: "0 12 * * 2,0"
+    # Tuesday (post-MNF waiver day) and Friday (final injury report before the weekend), 12:00 UTC
+    - cron: "0 12 * * 2,5"
 
 jobs:
   send-digest:
