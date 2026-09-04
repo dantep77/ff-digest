@@ -1,0 +1,63 @@
+{
+  "id": "2026-09-04T173709Z",
+  "sent_at": "2026-09-04T17:37:09.907416+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "36d8ebd2-83c9-4c89-9465-15a5f9e7b265",
+  "movers": [],
+  "injuries": [],
+  "disagreements": [],
+  "news": [
+    {
+      "item_id": 605914,
+      "player_id": 24551,
+      "title": "DaRon Bland restructures contract with Cowboys ",
+      "link": "https://www.fantasypros.com/nfl/news/605914/daron-bland-restructures-contract-with-cowboys.php",
+      "category": "Commentary, News",
+      "impact": "Bland was one of three players to have his contract restructured by Dallas. The Cowboys now have $33.2 million in salary cap space. ",
+      "created": "2026-09-04 16:31:01",
+      "first_seen_pulled_at": "2026-09-04T17:37:08.415429+00:00"
+    },
+    {
+      "item_id": 605913,
+      "player_id": 15535,
+      "title": "Kenny Clark restructures contract with Cowboys ",
+      "link": "https://www.fantasypros.com/nfl/news/605913/kenny-clark-restructures-contract-with-cowboys.php",
+      "category": "Commentary, News",
+      "impact": "Clark was one of three players to have his contract restructured by Dallas. The Cowboys now have $33.2 million in salary cap space",
+      "created": "2026-09-04 16:30:29",
+      "first_seen_pulled_at": "2026-09-04T17:37:08.415429+00:00"
+    },
+    {
+      "item_id": 605912,
+      "player_id": 22718,
+      "title": "Jake Ferguson restructures contract with Cowboys ",
+      "link": "https://www.fantasypros.com/nfl/news/605912/jake-ferguson-restructures-contract-with-cowboys.php",
+      "category": "Commentary, News",
+      "impact": "Ferguson's $7.25 million base salary was turned into a signing bonus. The Cowboys now have $33.2 million in salary cap space. ",
+      "created": "2026-09-04 16:28:38",
+      "first_seen_pulled_at": "2026-09-04T17:37:08.415429+00:00"
+    },
+    {
+      "item_id": 605911,
+      "player_id": 18281,
+      "title": "T.J. Edwards restructures contract with Bears",
+      "link": "https://www.fantasypros.com/nfl/news/605911/tj-edwards-restructures-contract-with-bears.php",
+      "category": "Commentary, News",
+      "impact": "Edwards was one of three players who had their contracts restructured. The moves open $17 million in savings against the cap. ",
+      "created": "2026-09-04 16:27:33",
+      "first_seen_pulled_at": "2026-09-04T17:37:08.415429+00:00"
+    },
+    {
+      "item_id": 605910,
+      "player_id": 22883,
+      "title": "Dayo Odeyingbo restructures contract with Bears",
+      "link": "https://www.fantasypros.com/nfl/news/605910/dayo-odeyingbo-restructures-contract-with-bears.php",
+      "category": "Commentary, News",
+      "impact": "Odeyingbo was one of three players who had their contracts restructured. The moves open $17 million in savings against the cap. ",
+      "created": "2026-09-04 16:26:59",
+      "first_seen_pulled_at": "2026-09-04T17:37:08.415429+00:00"
+    }
+  ],
+  "narrative": null
+}
