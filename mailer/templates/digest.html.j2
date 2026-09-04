@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body { font-family: -apple-system, Segoe UI, Arial, sans-serif; background: #f4f5f7; margin: 0; padding: 0; color: #1a1a1a; }
+  .container { max-width: 640px; margin: 0 auto; padding: 24px 16px; }
+  h1 { font-size: 20px; margin: 0 0 4px; }
+  .subtitle { color: #666; font-size: 13px; margin: 0 0 24px; }
+  .section { background: #fff; border-radius: 8px; padding: 16px 20px; margin-bottom: 16px; border: 1px solid #e5e5e5; }
+  .section h2 { font-size: 15px; margin: 0 0 12px; text-transform: uppercase; letter-spacing: 0.03em; color: #444; }
+  .insight { padding: 8px 0; border-bottom: 1px solid #f0f0f0; font-size: 14px; }
+  .insight:last-child { border-bottom: none; }
+  .player { font-weight: 600; }
+  .position { color: #888; font-size: 12px; }
+  .empty { color: #999; font-size: 13px; font-style: italic; }
+  .footer { text-align: center; color: #aaa; font-size: 11px; margin-top: 24px; }
+</style>
+</head>
+<body>
+  <div class="container">
+    <h1>FF Digest</h1>
+    <p class="subtitle">{{ generated_at }} &middot; {{ scoring }} scoring</p>
+
+    <div class="section">
+      <h2>Ranking Movers</h2>
+      {% if movers %}
+        {% for i in movers %}
+        <div class="insight"><span class="player">{{ i.player_name }}</span> <span class="position">{{ i.position }}</span><br>{{ i.detail }}</div>
+        {% endfor %}
+      {% else %}
+        <div class="empty">No significant movers this pull.</div>
+      {% endif %}
+    </div>
+
+    <div class="section">
+      <h2>Injury Watch</h2>
+      {% if injuries %}
+        {% for i in injuries %}
+        <div class="insight"><span class="player">{{ i.player_name }}</span><br>{{ i.detail }}</div>
+        {% endfor %}
+      {% else %}
+        <div class="empty">No injury status changes.</div>
+      {% endif %}
+    </div>
+
+    <div class="section">
+      <h2>Expert Disagreement</h2>
+      {% if disagreements %}
+        {% for i in disagreements %}
+        <div class="insight"><span class="player">{{ i.player_name }}</span> <span class="position">{{ i.position }}</span><br>{{ i.detail }}</div>
+        {% endfor %}
+      {% else %}
+        <div class="empty">No high-disagreement players this pull.</div>
+      {% endif %}
+    </div>
+
+    {% if narrative %}
+    <div class="section">
+      <h2>Summary</h2>
+      <p style="font-size: 14px; line-height: 1.5;">{{ narrative }}</p>
+    </div>
+    {% endif %}
+
+    <p class="footer">ff-digest &middot; generated automatically</p>
+  </div>
+</body>
+</html>
