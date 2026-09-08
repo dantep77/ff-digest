@@ -1,0 +1,101 @@
+{
+  "id": "2026-09-08T154750Z",
+  "sent_at": "2026-09-08T15:47:50.744142+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "f4f7b0ef-cbe7-41ac-abb3-119875fe87f9",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "Rashee Rice",
+      "position": "",
+      "detail": "New injury status: Suspended ()"
+    },
+    {
+      "type": "injury",
+      "player_name": "Quinshon Judkins",
+      "position": "",
+      "detail": "New injury status: OUT ()"
+    },
+    {
+      "type": "injury",
+      "player_name": "Jonathon Brooks",
+      "position": "",
+      "detail": "New injury status: PUP ()"
+    },
+    {
+      "type": "injury",
+      "player_name": "Jalen Coker",
+      "position": "",
+      "detail": "New injury status: IR ()"
+    },
+    {
+      "type": "injury",
+      "player_name": "MarShawn Lloyd",
+      "position": "",
+      "detail": "New injury status: OUT ()"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.13) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 606539,
+      "player_id": 28747,
+      "title": "Devin Lafayette released by Raiders ",
+      "link": "https://www.fantasypros.com/nfl/news/606539/devin-lafayette-released-by-raiders.php",
+      "category": "Commentary, News",
+      "impact": "Lafayette will seek another opportunity heading into the season. ",
+      "created": "2026-09-08 07:50:32",
+      "first_seen_pulled_at": "2026-09-08T15:47:45.789366+00:00"
+    },
+    {
+      "item_id": 606538,
+      "player_id": 28438,
+      "title": "Gary Smith III released by Raiders ",
+      "link": "https://www.fantasypros.com/nfl/news/606538/gary-smith-iii-released-by-raiders.php",
+      "category": "Commentary, News",
+      "impact": "Smith will seek another opportunity heading into the season. ",
+      "created": "2026-09-08 07:49:45",
+      "first_seen_pulled_at": "2026-09-08T15:47:45.789366+00:00"
+    },
+    {
+      "item_id": 606537,
+      "player_id": 28764,
+      "title": "Patrick Gurd signs with Raiders ",
+      "link": "https://www.fantasypros.com/nfl/news/606537/patrick-gurd-signs-with-raiders.php",
+      "category": "Commentary, News",
+      "impact": "Gurd will hold a depth role in the Raiders tight end room heading into the season. ",
+      "created": "2026-09-08 07:48:44",
+      "first_seen_pulled_at": "2026-09-08T15:47:45.789366+00:00"
+    },
+    {
+      "item_id": 606536,
+      "player_id": 28502,
+      "title": "Tim Keenan III signs with Raiders ",
+      "link": "https://www.fantasypros.com/nfl/news/606536/tim-keenan-iii-signs-with-raiders.php",
+      "category": "Commentary, News",
+      "impact": "Keenan will hold a depth role on the Raiders defensive line heading into the season. ",
+      "created": "2026-09-08 07:47:50",
+      "first_seen_pulled_at": "2026-09-08T15:47:45.789366+00:00"
+    },
+    {
+      "item_id": 606535,
+      "player_id": 26168,
+      "title": "Cedric Gray placed in concussion protocol ",
+      "link": "https://www.fantasypros.com/nfl/news/606535/cedric-gray-placed-concussion-protocol.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Gray got into a UTV accident over the weekend.",
+      "created": "2026-09-08 07:46:40",
+      "first_seen_pulled_at": "2026-09-08T15:47:45.789366+00:00"
+    }
+  ],
+  "narrative": "Injury news dominates this week, and none of it's good. Rashee Rice picks up a new Suspended tag, while Quinshon Judkins and MarShawn Lloyd are both flipping to OUT \u2014 Jonathon Brooks lands on the PUP list and Jalen Coker heads to IR. That's five names your bench just got a lot more crowded with, so start shopping now.\n\nThe one real debate on the board is Dak Prescott, where the experts can't agree on anything: Mike Harmon has him as high as QB5, Nathan Jahnke buries him at QB21, and the full range spans 6 to 20. When the spread is that wide, trust your own read on the matchup."
+}
