@@ -1,0 +1,95 @@
+{
+  "id": "2026-09-15T192542Z",
+  "sent_at": "2026-09-15T19:25:42.796015+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "8e750fbf-e28f-4bcd-a2cc-fd81c5f3e76f",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "Brock Bowers",
+      "position": "",
+      "detail": "New injury status: Questionable (Knee)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Quinshon Judkins",
+      "position": "",
+      "detail": "Status changed: OUT -> Questionable"
+    },
+    {
+      "type": "injury",
+      "player_name": "Brock Purdy",
+      "position": "",
+      "detail": "New injury status: OUT (Shoulder)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Wan'Dale Robinson",
+      "position": "",
+      "detail": "New injury status: Questionable (Ankle)"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.06) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 608124,
+      "player_id": 27102,
+      "title": "Dylan Sampson (knee) placed on IR",
+      "link": "https://www.fantasypros.com/nfl/news/608124/dylan-sampson-knee-placed-on-ir.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Sampson went down on Sunday with a knee injury. He will miss at least the next four weeks. ",
+      "created": "2026-09-15 19:20:42",
+      "first_seen_pulled_at": "2026-09-15T19:25:37.570650+00:00"
+    },
+    {
+      "item_id": 608120,
+      "player_id": 15569,
+      "title": "Sterling Shepard signs with Giants ",
+      "link": "https://www.fantasypros.com/nfl/news/608120/sterling-shepard-signs-with-giants.php",
+      "category": "Commentary, News",
+      "impact": "Sheppard makes his return to the Giants. He spent time in training camp with the Texans before he was released. He returns to a depth role in the Giants wide receiver room. ",
+      "created": "2026-09-15 19:13:56",
+      "first_seen_pulled_at": "2026-09-15T19:25:37.570650+00:00"
+    },
+    {
+      "item_id": 608118,
+      "player_id": 27032,
+      "title": "T.J. Sanders (illness) not practicing Tuesday ",
+      "link": "https://www.fantasypros.com/nfl/news/608118/tj-sanders-illness-not-practicing-tuesday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Sanders was listed as limited with a knee injury on Monday's estimated practice report. He should be good to go on Thursday with a return to practice on Wednesday. ",
+      "created": "2026-09-15 19:09:12",
+      "first_seen_pulled_at": "2026-09-15T19:25:37.570650+00:00"
+    },
+    {
+      "item_id": 608117,
+      "player_id": 24352,
+      "title": "Israel Abanikanda waived by Cowboys ",
+      "link": "https://www.fantasypros.com/nfl/news/608117/israel-abanikanda-waived-by-cowboys.php",
+      "category": "Commentary, News",
+      "impact": "Abanikanda will figure to seek another opportunity. Dallas signed RB Tyler Goodson to its active roster as the corresponding move. ",
+      "created": "2026-09-15 19:05:32",
+      "first_seen_pulled_at": "2026-09-15T19:25:37.570650+00:00"
+    },
+    {
+      "item_id": 608116,
+      "player_id": 22976,
+      "title": "Tyler Goodson signed by Cowboys ",
+      "link": "https://www.fantasypros.com/nfl/news/608116/tyler-goodson-signed-by-cowboys.php",
+      "category": "Commentary, News",
+      "impact": "Goodson will add depth in the Cowboys backfield with Malik Davis on IR. ",
+      "created": "2026-09-15 19:04:47",
+      "first_seen_pulled_at": "2026-09-15T19:25:37.570650+00:00"
+    }
+  ],
+  "narrative": "The injury wire did most of the talking this week. Brock Purdy is OUT with a shoulder issue, so if he's your guy, go find a streamer now. Brock Bowers (knee) and Wan'Dale Robinson (ankle) both popped up as Questionable, while Quinshon Judkins trended the right way, upgrading from OUT to Questionable. Elsewhere, the experts can't agree on Dak Prescott at all \u2014 Mike Harmon has him as high as QB5 while Nathan Jahnke buries him at QB21, with the full range spanning 6 to 20. That's a coin flip you'll have to call yourself."
+}
