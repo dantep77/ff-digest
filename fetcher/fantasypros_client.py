@@ -4,9 +4,14 @@ Docs: doc/fantasypros_v2_public.yml
 Base URL: https://api.fantasypros.com/public/v2/json
 Auth: x-api-key header
 """
+import time
+
 import httpx
 
 import config
+
+MAX_RETRIES = 4
+RETRY_BACKOFF_SECONDS = 5.0
 
 
 class FantasyProsError(RuntimeError):
@@ -18,15 +23,25 @@ def _get(path: str, params: dict | None = None) -> dict:
         raise FantasyProsError("FANTASYPROS_API_KEY is not set")
 
     url = f"{config.FANTASYPROS_BASE_URL}{path}"
-    resp = httpx.get(
-        url,
-        headers={"x-api-key": config.FANTASYPROS_API_KEY},
-        params={k: v for k, v in (params or {}).items() if v is not None},
-        timeout=30.0,
-    )
-    if resp.status_code >= 400:
-        raise FantasyProsError(f"{resp.status_code} {resp.request.url}: {resp.text}")
-    return resp.json()
+    query = {k: v for k, v in (params or {}).items() if v is not None}
+
+    for attempt in range(MAX_RETRIES + 1):
+        resp = httpx.get(
+            url,
+            headers={"x-api-key": config.FANTASYPROS_API_KEY},
+            params=query,
+            timeout=30.0,
+        )
+        if resp.status_code == 429 and attempt < MAX_RETRIES:
+            retry_after = resp.headers.get("Retry-After")
+            delay = float(retry_after) if retry_after else RETRY_BACKOFF_SECONDS * (2 ** attempt)
+            time.sleep(delay)
+            continue
+        if resp.status_code >= 400:
+            raise FantasyProsError(f"{resp.status_code} {resp.request.url}: {resp.text}")
+        return resp.json()
+
+    raise FantasyProsError(f"429 {resp.request.url}: {resp.text}")
 
 
 def get_rankings(
