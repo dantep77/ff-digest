@@ -1,0 +1,70 @@
+{
+  "id": "2026-09-18T153539Z",
+  "sent_at": "2026-09-18T15:35:39.837208+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a0b528-b7f2-7a75-9a38-7f6d4c936b49",
+  "movers": [],
+  "injuries": [],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.13) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 608829,
+      "player_id": 19278,
+      "title": "Michael Pittman Jr. (foot) not seen practicing Friday",
+      "link": "https://www.fantasypros.com/nfl/news/608829/michael-pittman-jr-foot-not-seen-practicing-friday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Pittman did not practice on Thursday. His status is uncertain for Sunday's game against the Patriots. ",
+      "created": "2026-09-18 15:32:32",
+      "first_seen_pulled_at": "2026-09-18T15:35:34.436182+00:00"
+    },
+    {
+      "item_id": 608828,
+      "player_id": 26403,
+      "title": "Jalen Coker (ankle) takes part in special teams drills to begin practice",
+      "link": "https://www.fantasypros.com/nfl/news/608828/jalen-coker-ankle-takes-part-special-teams-drills-to-begin-practice-fr.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Coker was limited in practice to begin the week. He appears on track to be good to go for Sunday's game against the Falcons. ",
+      "created": "2026-09-18 15:30:02",
+      "first_seen_pulled_at": "2026-09-18T15:35:34.436182+00:00"
+    },
+    {
+      "item_id": 608827,
+      "player_id": 19196,
+      "title": "Joe Burrow (back) seen practicing Friday ",
+      "link": "https://www.fantasypros.com/nfl/news/608827/joe-burrow-back-seen-practicing-friday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Burrow was limited in practice on Thursday. He appears on track to be good to go for Sunday's game against the Texans. ",
+      "created": "2026-09-18 15:27:57",
+      "first_seen_pulled_at": "2026-09-18T15:35:34.436182+00:00"
+    },
+    {
+      "item_id": 608826,
+      "player_id": 18600,
+      "title": "Kyler Murray progressing through concussion protocol ",
+      "link": "https://www.fantasypros.com/nfl/news/608826/kyler-murray-progressing-through-concussion-protocol.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Graziano notes that Murray did more in practice on Thursday than Wednesday. Once he is cleared, the Vikings will decide whether to start him on Sunday or play it safe by holding him out a week. ",
+      "created": "2026-09-18 15:24:58",
+      "first_seen_pulled_at": "2026-09-18T15:35:34.436182+00:00"
+    },
+    {
+      "item_id": 608825,
+      "player_id": 22967,
+      "title": "Darnell Washington (personal) back at practice Friday ",
+      "link": "https://www.fantasypros.com/nfl/news/608825/darnell-washington-personal-back-practice-friday.php",
+      "category": "Commentary, News",
+      "impact": "Washington missed Wednesday's and Thursday's practice session for personal reasons, but the big TE was back Friday. Washington secured both of his targets for 18 yards in Week 1's win over the Falcons. ",
+      "created": "2026-09-18 15:24:43",
+      "first_seen_pulled_at": "2026-09-18T15:35:34.436182+00:00"
+    }
+  ],
+  "narrative": "Quiet week on the movement front \u2014 just one name really splitting the room. Dak Prescott is the lone flashpoint, with expert ranks stretched from 6 all the way to 20 (standard deviation of 3.13). Mike Harmon is the believer, slotting him at QB5, while Nathan Jahnke wants nothing to do with it at #21. That's a 16-spot gap on the same quarterback, which means someone's going to look very right and someone very wrong. If you're streaming, that spread is your cue to check the matchup yourself before trusting any single ranking."
+}
