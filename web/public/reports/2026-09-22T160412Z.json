@@ -1,0 +1,113 @@
+{
+  "id": "2026-09-22T160412Z",
+  "sent_at": "2026-09-22T16:04:12.193048+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a0c9dc-48b4-7156-8a94-c99294721004",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "Jaxon Smith-Njigba",
+      "position": "",
+      "detail": "New injury status: Questionable (Illness)"
+    },
+    {
+      "type": "injury",
+      "player_name": "D'Andre Swift",
+      "position": "",
+      "detail": "New injury status: Questionable (Quadricep)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Malik Nabers",
+      "position": "",
+      "detail": "New injury status: OUT ()"
+    },
+    {
+      "type": "injury",
+      "player_name": "Jaylen Waddle",
+      "position": "",
+      "detail": "New injury status: Questionable (Shoulder)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Emeka Egbuka",
+      "position": "",
+      "detail": "New injury status: Questionable (Hip)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Joe Burrow",
+      "position": "",
+      "detail": "New injury status: IR ()"
+    },
+    {
+      "type": "injury",
+      "player_name": "Brock Purdy",
+      "position": "",
+      "detail": "Status changed: OUT -> Questionable"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.13) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 609815,
+      "player_id": 27009,
+      "title": "Will Johnson (neck) could miss rest of season ",
+      "link": "https://www.fantasypros.com/nfl/news/609815/will-johnson-neck-could-miss-rest-season.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Johnson went down with a neck injury during Sunday's loss to the Seahawks. The second-year corner has already recorded eight tackles and a fumble recovery in two games this season. Kei'Trel Clark will likely see a significant boost in playing time with Johnson down. ",
+      "created": "2026-09-22 14:27:05",
+      "first_seen_pulled_at": "2026-09-22T16:04:06.759289+00:00"
+    },
+    {
+      "item_id": 609814,
+      "player_id": 8200,
+      "title": "Giants D/ST allows 28 points in loss Monday",
+      "link": "https://www.fantasypros.com/nfl/news/609814/giants-dst-allows-28-points-loss-monday.php",
+      "category": "Commentary, News, Results",
+      "impact": "New York's defense struggled on Monday night. They allowed 28 points over the course of the game, despite actually forcing a couple turnovers to help their offense out. This unit should not be started moving forward, even with a relatively easy schedule coming down the pipe for them.",
+      "created": "2026-09-22 12:31:06",
+      "first_seen_pulled_at": "2026-09-22T16:04:06.759289+00:00"
+    },
+    {
+      "item_id": 609813,
+      "player_id": 28176,
+      "title": "Dominic Zvada scores six points in loss Monday",
+      "link": "https://www.fantasypros.com/nfl/news/609813/dominic-zvada-scores-six-points-loss-monday.php",
+      "category": "Commentary, News, Results",
+      "impact": "Zvada scored New York's only points on Monday night, accounting for all six of their points with his two made field goals. He has looked pretty good through the first two games of the season, although he doesn't project to be a good fantasy option at the position anytime soon.",
+      "created": "2026-09-22 12:29:12",
+      "first_seen_pulled_at": "2026-09-22T16:04:06.759289+00:00"
+    },
+    {
+      "item_id": 609812,
+      "player_id": 22980,
+      "title": "Tyrone Tracy Jr. held without a touch Monday",
+      "link": "https://www.fantasypros.com/nfl/news/609812/tyrone-tracy-jr-held-without-touch-monday.php",
+      "category": "Commentary, News, Results",
+      "impact": "New York seems to have phased Tracy out of the offense altogether, as he was relegated to just special teams against the Rams and saw no opportunities on offense. Najee Harris worked in and saw four touches on the night, so it looks like the 26-year old may have lost his spot as a depth piece in the backfield.",
+      "created": "2026-09-22 12:27:08",
+      "first_seen_pulled_at": "2026-09-22T16:04:06.759289+00:00"
+    },
+    {
+      "item_id": 609811,
+      "player_id": 19302,
+      "title": "Najee Harris sees four carries in loss Monday",
+      "link": "https://www.fantasypros.com/nfl/news/609811/najee-harris-sees-four-carries-loss-monday.php",
+      "category": "Commentary, News, Results",
+      "impact": "Harris wasn't able to accomplish anything on the box score on Monday night, but it looks like he is starting to get involved on New York's offense. He saw the second-most carries out of anyone on the team, although he wasn't able to do much with them. It looks like he may be overtaking Tyrone Tracy Jr. in this backfield, who himself didn't see a single opportunity on offense against the Rams.",
+      "created": "2026-09-22 12:24:29",
+      "first_seen_pulled_at": "2026-09-22T16:04:06.759289+00:00"
+    }
+  ],
+  "narrative": "Injury news dominates this week, so grab the waiver wire and don't let go. Malik Nabers is OUT and Joe Burrow has landed on IR \u2014 two big blows that force real lineup surgery. The questionable pile is crowded too: Jaxon Smith-Njigba (illness), D'Andre Swift (quad), Jaylen Waddle (shoulder), and Emeka Egbuka (hip) all carry game-day risk, while Brock Purdy at least trended the right way, upgrading from OUT to questionable. Elsewhere, the experts can't agree on Dak Prescott, who ranges from #5 (Mike Harmon) all the way down to #21 (Nathan Jahnke). That's a coin flip dressed up as a ranking \u2014 trust your own read on this one."
+}
