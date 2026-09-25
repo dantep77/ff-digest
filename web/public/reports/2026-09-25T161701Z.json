@@ -1,0 +1,70 @@
+{
+  "id": "2026-09-25T161701Z",
+  "sent_at": "2026-09-25T16:17:01.935298+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a0d95b-1b94-7678-81cf-83c734ad376b",
+  "movers": [],
+  "injuries": [],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.13) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 610537,
+      "player_id": 26136,
+      "title": "Xavier Legette (knee) takes part in Friday's practice",
+      "link": "https://www.fantasypros.com/nfl/news/610537/xavier-legette-knee-takes-part-fridays-practice.php",
+      "category": "Commentary, News, Injury",
+      "impact": "After sitting out the previous two days, Legette returned to the practice field Friday morning. The third-year receiver put up a goose egg in Week 1, but he hauled in 2-of-4 targets in last Sunday's blowout of the Falcons, including a 55-yard gain. ",
+      "created": "2026-09-25 16:07:18",
+      "first_seen_pulled_at": "2026-09-25T16:16:57.675821+00:00"
+    },
+    {
+      "item_id": 610536,
+      "player_id": 26403,
+      "title": "Jalen Coker (ankle) takes part in practice Friday",
+      "link": "https://www.fantasypros.com/nfl/news/610536/jalen-coker-ankle-takes-part-practice-friday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Coker did not practice Thursday after getting in a limited session Wednesday. The third-year receiver was back at Friday morning's session, which should give him a solid chance to play Sunday in Cleveland. Coker has had an excellent start to the season, hauling in eight passes in each of the first two games. ",
+      "created": "2026-09-25 16:03:22",
+      "first_seen_pulled_at": "2026-09-25T16:16:57.675821+00:00"
+    },
+    {
+      "item_id": 610535,
+      "player_id": 23710,
+      "title": "Devin Lloyd (calf) misses another practice Friday",
+      "link": "https://www.fantasypros.com/nfl/news/610535/devin-lloyd-calf-misses-another-practice-friday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Lloyd has been missing from practice all week long, leaving his status very much in doubt for Week 3. Jackson Kuwatch would likely see increased snaps if Lloyd sits. ",
+      "created": "2026-09-25 15:36:56",
+      "first_seen_pulled_at": "2026-09-25T16:16:57.675821+00:00"
+    },
+    {
+      "item_id": 610534,
+      "player_id": 16371,
+      "title": "Jonathan Allen (knee) participates in Friday's practice",
+      "link": "https://www.fantasypros.com/nfl/news/610534/jonathan-allen-knee-participates-fridays-practice.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Allen practiced for the first time this week on Friday. The veteran defensive lineman has been dealing with a knee issue. Allen is off to a great start this season, picking up a sack in each of the Bengals' first two games. ",
+      "created": "2026-09-25 15:32:23",
+      "first_seen_pulled_at": "2026-09-25T16:16:57.675821+00:00"
+    },
+    {
+      "item_id": 610532,
+      "player_id": 18199,
+      "title": "Nick Bosa (calf) expected to miss at least a few weeks",
+      "link": "https://www.fantasypros.com/nfl/news/610532/nick-bosa-calf-expected-to-miss-least-few-weeks.php",
+      "category": "Commentary, News, Injury",
+      "impact": "It is another brutal injury break for Bosa and the 49ers. The team is figuring out whether or not he'll need to be placed on injured reserve.",
+      "created": "2026-09-25 15:23:51",
+      "first_seen_pulled_at": "2026-09-25T16:16:57.675821+00:00"
+    }
+  ],
+  "narrative": "Quiet week on the movement front, but one name has the experts talking: Dak Prescott. The QB spread on him runs from 6 all the way to 20, with a standard deviation of 3.13 \u2014 that's real disagreement, not rounding error. Mike Harmon is all in at QB5, while Nathan Jahnke has him buried at QB21. Nobody else on the board generated this kind of noise, so if you're starting Dak, you're essentially picking a side in an argument the experts haven't settled."
+}
