@@ -1,0 +1,107 @@
+{
+  "id": "2026-09-29T172639Z",
+  "sent_at": "2026-09-29T17:26:39.244232+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a0ee34-4935-771b-9bf6-e6b00554efdf",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "CeeDee Lamb",
+      "position": "",
+      "detail": "New injury status: OUT (Ankle)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Malik Nabers",
+      "position": "",
+      "detail": "Status changed: OUT -> IR"
+    },
+    {
+      "type": "injury",
+      "player_name": "Davante Adams",
+      "position": "",
+      "detail": "New injury status: Questionable (Hamstring)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Tetairoa McMillan",
+      "position": "",
+      "detail": "New injury status: Questionable (Calf)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Chuba Hubbard",
+      "position": "",
+      "detail": "New injury status: Questionable (Calf)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Mike Evans",
+      "position": "",
+      "detail": "New injury status: OUT (Hamstring)"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.13) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 611435,
+      "player_id": 25705,
+      "title": "Shaka Heyward signs with Dolphins ",
+      "link": "https://www.fantasypros.com/nfl/news/611435/shaka-heyward-signs-with-dolphins.php",
+      "category": "Commentary, News",
+      "impact": "Heyward was signed off the practice squad by Miami. ",
+      "created": "2026-09-29 17:19:58",
+      "first_seen_pulled_at": "2026-09-29T17:26:33.747114+00:00"
+    },
+    {
+      "item_id": 611434,
+      "player_id": 23290,
+      "title": "Caleb Johnson signs with Texans ",
+      "link": "https://www.fantasypros.com/nfl/news/611434/caleb-johnson-signs-with-texans.php",
+      "category": "Commentary, News",
+      "impact": "Johnson has 40 career tackles with one forced fumble and one fumble recovery. ",
+      "created": "2026-09-29 17:18:58",
+      "first_seen_pulled_at": "2026-09-29T17:26:33.747114+00:00"
+    },
+    {
+      "item_id": 611433,
+      "player_id": 22880,
+      "title": "Kendrick Green released from IR by Browns ",
+      "link": "https://www.fantasypros.com/nfl/news/611433/kendrick-green-released-from-ir-by-browns.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Green will figure to seek another opportunity. ",
+      "created": "2026-09-29 17:17:44",
+      "first_seen_pulled_at": "2026-09-29T17:26:33.747114+00:00"
+    },
+    {
+      "item_id": 611432,
+      "player_id": 26439,
+      "title": "Messiah Swinson released by Browns",
+      "link": "https://www.fantasypros.com/nfl/news/611432/messiah-swinson-released-by-browns.php",
+      "category": "Commentary, News",
+      "impact": "Swinson will figure to seek another opportunity. ",
+      "created": "2026-09-29 17:16:46",
+      "first_seen_pulled_at": "2026-09-29T17:26:33.747114+00:00"
+    },
+    {
+      "item_id": 611431,
+      "player_id": 19039,
+      "title": "D'Angelo Ross released by Browns",
+      "link": "https://www.fantasypros.com/nfl/news/611431/dangelo-ross-released-by-browns.php",
+      "category": "Commentary, News",
+      "impact": "Ross will figure to seek another opportunity. ",
+      "created": "2026-09-29 17:16:12",
+      "first_seen_pulled_at": "2026-09-29T17:26:33.747114+00:00"
+    }
+  ],
+  "narrative": "Wide receiver rooms took a beating this week: CeeDee Lamb is OUT with an ankle issue, Mike Evans is OUT with a hamstring, and Malik Nabers has moved from OUT to IR \u2014 so you can stop holding that roster spot. Davante Adams (hamstring) and Tetairoa McMillan (calf) are both Questionable, which means two more lineup decisions you won't get to make until Sunday morning. Carolina's backfield adds to the fog with Chuba Hubbard also Questionable on a calf. And the experts can't agree on Dak Prescott at all \u2014 Mike Harmon has him at #5 while Nathan Jahnke drops him to #21, a 6-to-20 range with a 3.13 standard deviation. When the rankings spread that wide, trust your own read on the matchup."
+}
