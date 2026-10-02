@@ -1,0 +1,77 @@
+{
+  "id": "2026-10-02T171256Z",
+  "sent_at": "2026-10-02T17:12:56.956892+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a0fd9a-d0ef-78d0-a803-dc232df534b8",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "Jaylen Warren",
+      "position": "",
+      "detail": "New injury status: OUT (NIR - Rest)"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.13) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 611859,
+      "player_id": 17237,
+      "title": "Baker Mayfield (thumb) ruled out Sunday ",
+      "link": "https://www.fantasypros.com/nfl/news/611859/baker-mayfield-thumb-ruled-out-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "This was the expectation as Mayfield is expected to miss the next few weeks. It will be rookie QB Jalon Daniels starting in his place.",
+      "created": "2026-10-02 17:12:18",
+      "first_seen_pulled_at": "2026-10-02T17:12:52.886344+00:00"
+    },
+    {
+      "item_id": 611858,
+      "player_id": 27010,
+      "title": "Mason Graham (MCL sprain) to miss a few weeks",
+      "link": "https://www.fantasypros.com/nfl/news/611858/mason-graham-mcl-sprain-to-miss-few-weeks.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Graham also suffered an ankle sprain in Thursday's win over the Steelers. It is a positive sign he was able to avoid a major injury. ",
+      "created": "2026-10-02 17:10:41",
+      "first_seen_pulled_at": "2026-10-02T17:12:52.886344+00:00"
+    },
+    {
+      "item_id": 611857,
+      "player_id": 26403,
+      "title": "Jalen Coker (quad) listed questionable Sunday ",
+      "link": "https://www.fantasypros.com/nfl/news/611857/jalen-coker-quad-listed-questionable-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Coker remained limited in practice on Friday. His status will need to be monitored heading into kickoff Sunday night, but he appears to be on the favorable side of questionable. ",
+      "created": "2026-10-02 17:09:12",
+      "first_seen_pulled_at": "2026-10-02T17:12:52.886344+00:00"
+    },
+    {
+      "item_id": 611856,
+      "player_id": 19210,
+      "title": "D'Andre Swift (knee) expected to practice Friday ",
+      "link": "https://www.fantasypros.com/nfl/news/611856/dandre-swift-knee-expected-to-practice-friday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Swift was added to the injury report after not practicing on Thursday. Bears coach Ben Johnson said he is optimistic on Swift playing on Sunday. ",
+      "created": "2026-10-02 17:07:49",
+      "first_seen_pulled_at": "2026-10-02T17:12:52.886344+00:00"
+    },
+    {
+      "item_id": 611855,
+      "player_id": 23084,
+      "title": "Caleb Williams (hamstring) ruled out Sunday ",
+      "link": "https://www.fantasypros.com/nfl/news/611855/caleb-williams-hamstring-ruled-out-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Williams will officially miss a second straight game. Bears head coach Ben Johnson won't name a QB starter on Friday between Tyson Bagent or Case Keenum.",
+      "created": "2026-10-02 17:06:31",
+      "first_seen_pulled_at": "2026-10-02T17:12:52.886344+00:00"
+    }
+  ],
+  "narrative": "Two things on the radar this week. Dak Prescott is a genuine coin flip in the expert room \u2014 he's ranked anywhere from 6th to 20th at QB (std 3.13), with Mike Harmon loving him at #5 while Nathan Jahnke buries him at #21. That's about as wide a gap as you'll see, so trust your own read or just pick the safer streamer. Elsewhere, Jaylen Warren has been ruled OUT with a rest-related designation (NIR - Rest), so adjust your Steelers backfield plans accordingly. That's the short list \u2014 not much else moved."
+}
