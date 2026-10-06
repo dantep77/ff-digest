@@ -1,0 +1,107 @@
+{
+  "id": "2026-10-06T174314Z",
+  "sent_at": "2026-10-06T17:43:14.167975+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a1124f-fbb2-7c3f-94cf-70a88e5e4588",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "Lamar Jackson",
+      "position": "",
+      "detail": "New injury status: OUT (Hamstring)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Brock Purdy",
+      "position": "",
+      "detail": "New injury status: OUT (Toe)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Chuba Hubbard",
+      "position": "",
+      "detail": "Status changed: Questionable -> OUT"
+    },
+    {
+      "type": "injury",
+      "player_name": "Bucky Irving",
+      "position": "",
+      "detail": "New injury status: OUT (Foot)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Brock Bowers",
+      "position": "",
+      "detail": "New injury status: OUT (Knee)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Omarion Hampton",
+      "position": "",
+      "detail": "New injury status: IR ()"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.13) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 612470,
+      "player_id": 25314,
+      "title": "DeMarvion Overshown (hamstring) unlikely to return Thursday ",
+      "link": "https://www.fantasypros.com/nfl/news/612470/demarvion-overshown-hamstring-unlikely-to-return-thursday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Overshown is continuing to work his way back from a hamstring injury. He could return for Week 6. ",
+      "created": "2026-10-06 17:23:08",
+      "first_seen_pulled_at": "2026-10-06T17:43:09.196528+00:00"
+    },
+    {
+      "item_id": 612469,
+      "player_id": 18714,
+      "title": "Scotty Miller signs with Bears practice squad ",
+      "link": "https://www.fantasypros.com/nfl/news/612469/scotty-miller-signs-with-bears-practice-squad.php",
+      "category": "Commentary, News",
+      "impact": "Miller will add depth in the Bears wide receiver room. He'll remain off the fantasy radar. ",
+      "created": "2026-10-06 17:21:03",
+      "first_seen_pulled_at": "2026-10-06T17:43:09.196528+00:00"
+    },
+    {
+      "item_id": 612468,
+      "player_id": 24187,
+      "title": "Tyler Smith (thumb) to practice Tuesday ",
+      "link": "https://www.fantasypros.com/nfl/news/612468/tyler-smith-thumb-to-practice-tuesday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Smith was designated to return from injured reserve on Monday. He remains hopeful to return on Thursday against the Bucs. ",
+      "created": "2026-10-06 17:19:37",
+      "first_seen_pulled_at": "2026-10-06T17:43:09.196528+00:00"
+    },
+    {
+      "item_id": 612467,
+      "player_id": 22984,
+      "title": "Deuce Vaughn signs with Texans practice squad ",
+      "link": "https://www.fantasypros.com/nfl/news/612467/deuce-vaughn-signs-with-texans-practice-squad.php",
+      "category": "Commentary, News",
+      "impact": "Vaugh was previously with the Cowboys. He'll hold a depth role in the Texans backfield. ",
+      "created": "2026-10-06 17:17:58",
+      "first_seen_pulled_at": "2026-10-06T17:43:09.196528+00:00"
+    },
+    {
+      "item_id": 612466,
+      "player_id": 26162,
+      "title": "Jamari Thrash works out for Broncos",
+      "link": "https://www.fantasypros.com/nfl/news/612466/jamari-thrash-works-out-broncos.php",
+      "category": "Commentary, News",
+      "impact": "Thrash had 10 catches for 107 yards with the Browns last year. He would hold a depth role in the Broncos wide receiver room. ",
+      "created": "2026-10-06 17:16:31",
+      "first_seen_pulled_at": "2026-10-06T17:43:09.196528+00:00"
+    }
+  ],
+  "narrative": "Brutal week on the injury wire: Lamar Jackson (hamstring) and Brock Purdy (toe) are both OUT, so a whole lot of you are streaming a quarterback. The skill positions got hit just as hard \u2014 Bucky Irving (foot) and Brock Bowers (knee) are OUT, Chuba Hubbard went from Questionable all the way to OUT, and Omarion Hampton landed on IR. Meanwhile, the experts can't agree on Dak Prescott at all: he's ranked anywhere from 6 to 20, with Mike Harmon slotting him at QB5 while Nathan Jahnke has him down at 21. That's a 3.13 standard deviation \u2014 translation: you're on your own with that call. Check your bench early this week."
+}
