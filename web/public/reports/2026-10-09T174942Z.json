@@ -1,0 +1,77 @@
+{
+  "id": "2026-10-09T174942Z",
+  "sent_at": "2026-10-09T17:49:42.532701+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a121c8-fc99-7994-a4e8-03bd81da5b10",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "Mike Evans",
+      "position": "",
+      "detail": "New injury status: OUT (Hamstring)"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.13) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 613055,
+      "player_id": 19788,
+      "title": "Ja'Marr Chase remains in concussion protocol ",
+      "link": "https://www.fantasypros.com/nfl/news/613055/jamarr-chase-remains-concussion-protocol.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Chase was in uniform during practice on Friday. He will have till Saturday to clear all protocols in time for Sunday. ",
+      "created": "2026-10-09 17:48:28",
+      "first_seen_pulled_at": "2026-10-09T17:49:38.696412+00:00"
+    },
+    {
+      "item_id": 613054,
+      "player_id": 27166,
+      "title": "Cam Skattebo (shoulder) will play Sunday ",
+      "link": "https://www.fantasypros.com/nfl/news/613054/cam-skattebo-shoulder-will-play-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Skattebo said he had a \"little muscle tightness\" in his shoulder. It's why he wore a red no-contact jersey on Wednesday. He'll remain a steady RB2 play. ",
+      "created": "2026-10-09 17:43:44",
+      "first_seen_pulled_at": "2026-10-09T17:49:38.696412+00:00"
+    },
+    {
+      "item_id": 613053,
+      "player_id": 26398,
+      "title": "Ryan Flournoy goes for 90 yards in loss",
+      "link": "https://www.fantasypros.com/nfl/news/613053/ryan-flournoy-goes-90-yards-loss.php",
+      "category": "Commentary, News, Results",
+      "impact": "Flournoy stepped in and made some big plays while operating as the Cowboys' WR2/3 on Thursday with CeeDee Lamb in and out of the lineup due to injury. If Lamb or George Pickens were to miss any time, Flournoy would be a primary pickup.",
+      "created": "2026-10-09 17:39:05",
+      "first_seen_pulled_at": "2026-10-09T17:49:38.696412+00:00"
+    },
+    {
+      "item_id": 613052,
+      "player_id": 18576,
+      "title": "Andrew Wingard (knee) ruled out Sunday ",
+      "link": "https://www.fantasypros.com/nfl/news/613052/andrew-wingard-knee-ruled-out-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Wingard will be sidelined with a knee injury. ",
+      "created": "2026-10-09 17:38:01",
+      "first_seen_pulled_at": "2026-10-09T17:49:38.696412+00:00"
+    },
+    {
+      "item_id": 613051,
+      "player_id": 25403,
+      "title": "Jeremiyah Love (ankle) trending in right direction for Sunday",
+      "link": "https://www.fantasypros.com/nfl/news/613051/jeremiyah-love-ankle-trending-right-direction-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Love will continue to manage his ankle injury. He appears likely to be good to go for Sunday's game against the Lions. ",
+      "created": "2026-10-09 17:37:09",
+      "first_seen_pulled_at": "2026-10-09T17:49:38.696412+00:00"
+    }
+  ],
+  "narrative": "Two things worth your attention this week. Dak Prescott has the experts arguing with themselves \u2014 he's ranked anywhere from 6th to 20th at QB (std dev 3.13), with Mike Harmon bullish at #5 and Nathan Jahnke sitting him all the way down at #21. That's a spread wide enough to drive a truck through, so trust your own read on the matchup. Elsewhere, Mike Evans is now officially OUT with a hamstring issue \u2014 time to work the waiver wire if he was in your lineup plans."
+}
