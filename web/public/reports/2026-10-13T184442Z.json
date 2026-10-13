@@ -1,0 +1,89 @@
+{
+  "id": "2026-10-13T184442Z",
+  "sent_at": "2026-10-13T18:44:42.128474+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a13694-c5a9-742c-ac81-641d72608681",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "Ja'Marr Chase",
+      "position": "",
+      "detail": "New injury status: Questionable (Illness)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Zay Flowers",
+      "position": "",
+      "detail": "New injury status: Questionable (Shoulder)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Christian Watson",
+      "position": "",
+      "detail": "New injury status: OUT (Knee)"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.06) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 613665,
+      "player_id": 25654,
+      "title": "Emari Demercado expected to re-sign with Cowboys ",
+      "link": "https://www.fantasypros.com/nfl/news/613665/emari-demercado-expected-to-re-sign-with-cowboys.php",
+      "category": "Commentary, News",
+      "impact": "Demercado had been competing with Tyler Goodson for the backup role. He will remain off the fantasy radar. ",
+      "created": "2026-10-13 18:41:53",
+      "first_seen_pulled_at": "2026-10-13T18:44:37.350543+00:00"
+    },
+    {
+      "item_id": 613664,
+      "player_id": 26403,
+      "title": "Jalen Coker (quad) remains on track to return in Week 6",
+      "link": "https://www.fantasypros.com/nfl/news/613664/jalen-coker-quad-remains-on-track-to-return-week-6.php",
+      "category": "Commentary, News, Injury",
+      "impact": "This confirms a previous report from Monday. He was spotted practicing on Tuesday. ",
+      "created": "2026-10-13 18:40:22",
+      "first_seen_pulled_at": "2026-10-13T18:44:37.350543+00:00"
+    },
+    {
+      "item_id": 613663,
+      "player_id": 19201,
+      "title": "Jerry Jeudy could be traded by Browns",
+      "link": "https://www.fantasypros.com/nfl/news/613663/jerry-jeudy-could-be-traded-by-browns.php",
+      "category": "Commentary, News",
+      "impact": "Jordan Schultz reported he's not sure they'll be able to get it. Jeudy will be a player to monitor closer to the trade deadline. ",
+      "created": "2026-10-13 18:38:08",
+      "first_seen_pulled_at": "2026-10-13T18:44:37.350543+00:00"
+    },
+    {
+      "item_id": 613662,
+      "player_id": 25533,
+      "title": "Blake Grupe signed by Rams",
+      "link": "https://www.fantasypros.com/nfl/news/613662/blake-grupe-signed-by-rams.php",
+      "category": "Commentary, News",
+      "impact": "Grupe will get an opportunity with the Rams with Harrison Mevis released. ",
+      "created": "2026-10-13 17:31:01",
+      "first_seen_pulled_at": "2026-10-13T18:44:37.350543+00:00"
+    },
+    {
+      "item_id": 613661,
+      "player_id": 26638,
+      "title": "Harrison Mevis released by Rams",
+      "link": "https://www.fantasypros.com/nfl/news/613661/harrison-mevis-released-by-rams.php",
+      "category": "Commentary, News",
+      "impact": "Mevis missed two field goals in Monday's loss against the Bills. The Rams signed Blake Grupe off the Jets practice squad as the corresponding move. ",
+      "created": "2026-10-13 17:29:37",
+      "first_seen_pulled_at": "2026-10-13T18:44:37.350543+00:00"
+    }
+  ],
+  "narrative": "Dak Prescott is this week's great debate \u2014 experts have him anywhere from QB5 (Mike Harmon) to QB21 (Nathan Jahnke), a spread wide enough to make you question everything. Over in the wideout room, Ja'Marr Chase is now Questionable with an illness and Zay Flowers is Questionable with a shoulder, so keep your phone close on Sunday morning. Christian Watson is the clearest call of the bunch: he's OUT with a knee, so pivot now rather than panic later. Not a lot of certainty this week \u2014 just a lot of inactive-report refreshing."
+}
