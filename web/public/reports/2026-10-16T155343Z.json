@@ -1,0 +1,70 @@
+{
+  "id": "2026-10-16T155343Z",
+  "sent_at": "2026-10-16T15:53:43.035371+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a1456b-4f33-735b-a0b8-34a75fd4061f",
+  "movers": [],
+  "injuries": [],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.13) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 614231,
+      "player_id": 25967,
+      "title": "Joe Milton III signs with Eagles ",
+      "link": "https://www.fantasypros.com/nfl/news/614231/joe-milton-iii-signs-with-eagles.php",
+      "category": "Commentary, News",
+      "impact": "Milton has been on the Cowboys' practice squad all season to this point. The sixth-round draft pick from 2024 appeared in four games for the Cowboys last season, completing 15 of 24 passes for 183 yards with one touchdown and two interceptions. Milton brings some dual-threat potential, as he also rushed for 50 yards on five carries last season. With Jalen Hurts' health status completely up in the air due to a blood clot in his calf, the Eagles now have a QB trio consisting of Milton along with Sunday's presumed starter Tanner McKee and rookie Cole Payton. ",
+      "created": "2026-10-16 15:22:51",
+      "first_seen_pulled_at": "2026-10-16T15:53:38.693980+00:00"
+    },
+    {
+      "item_id": 614230,
+      "player_id": 28127,
+      "title": "Omar Cooper Jr. (ankle) to return in Week 6",
+      "link": "https://www.fantasypros.com/nfl/news/614230/omar-cooper-jr-ankle-to-return-week-6.php",
+      "category": "Commentary, News, Injury, Breaking",
+      "impact": "Cooper has not played since he was knocked out of the Jets' season opener with a sprained ankle. The first-round rookie has returned to limited practice sessions this week, and it was announced Friday morning that he's ready for in-game action. With Adonai Mitchell (finger) remaining out this week, Cooper should slot right in behind Garrett Wilson at wide receiver for the Jets. However, there is certainly a chance that Cooper is eased back into the mix as far as total snaps go. ",
+      "created": "2026-10-16 15:06:28",
+      "first_seen_pulled_at": "2026-10-16T15:53:38.693980+00:00"
+    },
+    {
+      "item_id": 614229,
+      "player_id": 22982,
+      "title": "Breece Hall (quad) officially ruled out for Week 6 ",
+      "link": "https://www.fantasypros.com/nfl/news/614229/breece-hall-quad-officially-ruled-out-week-6.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Hall will miss a third straight game due to a quad injury. Braelon Allen will shoulder the load out of the Jets' backfield once again in Week 6. ",
+      "created": "2026-10-16 14:57:20",
+      "first_seen_pulled_at": "2026-10-16T15:53:38.693980+00:00"
+    },
+    {
+      "item_id": 614228,
+      "player_id": 24357,
+      "title": "Adonai Mitchell (finger) out for Week 6",
+      "link": "https://www.fantasypros.com/nfl/news/614228/adonai-mitchell-finger-out-week-6.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Mitchell will miss his fourth consecutive game this week. Rookie first-rounder Omar Cooper Jr. (ankle), veteran Tim Patrick, and Isaiah Williams should slot in behind Garrett Wilson in the WR pecking order for the Jets on Sunday. ",
+      "created": "2026-10-16 14:54:53",
+      "first_seen_pulled_at": "2026-10-16T15:53:38.693980+00:00"
+    },
+    {
+      "item_id": 614227,
+      "player_id": 26055,
+      "title": "Kenyon Sadiq (concussion) looks good to go for Week 6",
+      "link": "https://www.fantasypros.com/nfl/news/614227/kenyon-sadiq-concussion-looks-good-to-go-week-6.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Sadiq looks to be finishing up his time in the league's concussion protocol on Friday. The rookie tight end is expected to play Sunday against the Patriots. ",
+      "created": "2026-10-16 14:49:59",
+      "first_seen_pulled_at": "2026-10-16T15:53:38.693980+00:00"
+    }
+  ],
+  "narrative": "Quiet week on the movement front \u2014 just one name really splitting the room. Dak Prescott has the experts talking past each other, with rankings stretched from QB6 all the way down to QB20. Mike Harmon is the believer, slotting him at #5, while Nathan Jahnke wants no part of it at #21. That's a standard deviation of 3.13, which is analyst-speak for \"nobody has any idea.\" Trust your own read on this one, because the pros sure aren't agreeing."
+}
