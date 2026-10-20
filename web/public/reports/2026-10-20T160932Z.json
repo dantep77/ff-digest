@@ -1,0 +1,101 @@
+{
+  "id": "2026-10-20T160932Z",
+  "sent_at": "2026-10-20T16:09:32.619151+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a15a13-3c93-701e-b20b-5f765fcbdb4b",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "Puka Nacua",
+      "position": "",
+      "detail": "New injury status: OUT (Ankle)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Garrett Wilson",
+      "position": "",
+      "detail": "New injury status: OUT (knee)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Mike Evans",
+      "position": "",
+      "detail": "New injury status: Questionable (Hamstring)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Jalen Coker",
+      "position": "",
+      "detail": "New injury status: Questionable (Quadricep)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Emeka Egbuka",
+      "position": "",
+      "detail": "New injury status: Questionable (Hamstring)"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.13) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 614924,
+      "player_id": 16548,
+      "title": "Zane Gonzalez brought in by Dolphins ",
+      "link": "https://www.fantasypros.com/nfl/news/614924/zane-gonzalez-brought-by-dolphins.php",
+      "category": "Commentary, News",
+      "impact": "After trying out multiple kickers, Gonzalez was signed by the Dolphins to begin the week. Riley Patterson was released soon after. ",
+      "created": "2026-10-20 15:28:51",
+      "first_seen_pulled_at": "2026-10-20T16:09:27.420169+00:00"
+    },
+    {
+      "item_id": 614923,
+      "player_id": 23370,
+      "title": "Riley Patterson released by Dolphins ",
+      "link": "https://www.fantasypros.com/nfl/news/614923/riley-patterson-released-by-dolphins.php",
+      "category": "Commentary, News",
+      "impact": "The Dolphins will make a mid-season change at kicker. Veteran Zane Gonzalez was signed on Tuesday after the team tried out multiple kickers. ",
+      "created": "2026-10-20 15:26:09",
+      "first_seen_pulled_at": "2026-10-20T16:09:27.420169+00:00"
+    },
+    {
+      "item_id": 614922,
+      "player_id": 19302,
+      "title": "Najee Harris cut loose by Giants",
+      "link": "https://www.fantasypros.com/nfl/news/614922/najee-harris-cut-loose-by-giants.php",
+      "category": "Commentary, News",
+      "impact": "Even with starting running back Cam Skattebo in the dog house, Harris did very little in Week 6, netting just two yards on four carries. The veteran has gained only 99 yards on 31 carries in total this season, and the Giants made the decision to release him Tuesday morning. The Giants will move forward with the familiar backfield trio of Skattebo, Tyrone Tracy Jr. and Devin Singletary. ",
+      "created": "2026-10-20 15:09:55",
+      "first_seen_pulled_at": "2026-10-20T16:09:27.420169+00:00"
+    },
+    {
+      "item_id": 614921,
+      "player_id": 18466,
+      "title": "Terry McLaurin (knee) to have MRI on Tuesday ",
+      "link": "https://www.fantasypros.com/nfl/news/614921/terry-mclaurin-knee-to-have-mri-on-tuesday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "McLaurin's injury looked quite ugly and the expectation is that the Commanders star wideout will miss the rest of the season. He will undergo further testing on Tuesday to determine the full severity of the injury. ",
+      "created": "2026-10-20 13:39:57",
+      "first_seen_pulled_at": "2026-10-20T16:09:27.420169+00:00"
+    },
+    {
+      "item_id": 614920,
+      "player_id": 17528,
+      "title": "Marquez Valdes-Scantling to join Steelers ",
+      "link": "https://www.fantasypros.com/nfl/news/614920/marquez-valdes-scantling-to-join-steelers.php",
+      "category": "Commentary, News",
+      "impact": "After being let go by the Chargers this past weekend, Valdes-Scantling will meet back up with QB Aaron Rodgers and other familiar faces in Pittsburgh. Valdes-Scantling played in five games with the Steelers last season, catching 10 passes for 80 yards and a touchdown. ",
+      "created": "2026-10-20 13:35:40",
+      "first_seen_pulled_at": "2026-10-20T16:09:27.420169+00:00"
+    }
+  ],
+  "narrative": "The injury report did most of the talking this week, and it wasn't kind. Puka Nacua (ankle) and Garrett Wilson (knee) are both ruled OUT, so two WR1-caliber lineup spots just went up in smoke \u2014 get on the waiver wire now. Tampa Bay's receiver room is a guessing game with Mike Evans (hamstring) and Emeka Egbuka (hamstring) both Questionable, and Jalen Coker (quad) joins the maybe pile too.\n\nMeanwhile, the experts can't agree on Dak Prescott at all: Mike Harmon has him as a top-five QB at #5, while Nathan Jahnke buries him at #21. That's a rank range of 6 to 20 with a 3.13 standard deviation \u2014 translation: nobody actually knows, so trust your gut and your matchup."
+}
