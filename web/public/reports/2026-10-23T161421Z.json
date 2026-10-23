@@ -1,0 +1,77 @@
+{
+  "id": "2026-10-23T161421Z",
+  "sent_at": "2026-10-23T16:14:21.005682+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a1698a-b6fa-7583-a875-ff6dac603356",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "Josh Jacobs",
+      "position": "",
+      "detail": "New injury status: Questionable (Illness)"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.13) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 615514,
+      "player_id": 23046,
+      "title": "Drake Maye accounts for three touchdowns in Week 7 loss",
+      "link": "https://www.fantasypros.com/nfl/news/615514/drake-maye-accounts-three-touchdowns-week-7-loss.php",
+      "category": "Commentary, News, Results",
+      "impact": "The Patriots certainly wanted the win, but fantasy managers enjoyed a big performance from Maye. The third-year QB threw for more than 300 yards for the second time in the last three weeks, and he's now scored 11 total touchdowns during that span. Maye will be a certain start at Miami in Week 8. ",
+      "created": "2026-10-23 16:11:16",
+      "first_seen_pulled_at": "2026-10-23T16:14:16.749027+00:00"
+    },
+    {
+      "item_id": 615513,
+      "player_id": 23065,
+      "title": "TreVeyon Henderson gets just five touches in Week 7",
+      "link": "https://www.fantasypros.com/nfl/news/615513/treveyon-henderson-gets-just-five-touches-week-7.php",
+      "category": "Commentary, News, Results",
+      "impact": "Henderson has now averaged just six touches per game over the last three weeks, and he's done very little with them. As surprising as it seems, Henderson's fantasy value is basically relegated to being a handcuff for veteran Rhamondre Stevenson at the moment. ",
+      "created": "2026-10-23 16:05:28",
+      "first_seen_pulled_at": "2026-10-23T16:14:16.749027+00:00"
+    },
+    {
+      "item_id": 615512,
+      "player_id": 22726,
+      "title": "Rhamondre Stevenson delivers in passing game Thursday night",
+      "link": "https://www.fantasypros.com/nfl/news/615512/rhamondre-stevenson-delivers-passing-game-thursday-night.php",
+      "category": "Commentary, News, Results",
+      "impact": "Stevenson's six carries were a team high Thursday night, but the Patriots just did not do much on the ground. More importantly for fantasy managers, Stevenson also led the team in receiving yards. The veteran running back scored on a 48-yard passing play, and he was far more involved than TreVeyon Henderson. Stevenson will remain in the RB2 or Flex range for Week 8. ",
+      "created": "2026-10-23 16:00:49",
+      "first_seen_pulled_at": "2026-10-23T16:14:16.749027+00:00"
+    },
+    {
+      "item_id": 615511,
+      "player_id": 19229,
+      "title": "Cole Kmet (knee) believed to have season-ending knee injury",
+      "link": "https://www.fantasypros.com/nfl/news/615511/cole-kmet-knee-believed-to-have-season-ending-knee-injury.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Kmet had some nice involvement in this game before going down due to injury, and it's now especially unfortunate that he is expected to have this absence extend for the rest of the season. Colston Loveland will see more work for sure, but don't count out Sam Roush, who should also see more snaps.",
+      "created": "2026-10-23 15:58:45",
+      "first_seen_pulled_at": "2026-10-23T16:14:16.749027+00:00"
+    },
+    {
+      "item_id": 615510,
+      "player_id": 18218,
+      "title": "A.J. Brown grabs three passes in Thursday's loss",
+      "link": "https://www.fantasypros.com/nfl/news/615510/aj-brown-grabs-three-passes-thursdays-loss.php",
+      "category": "Commentary, News, Results",
+      "impact": "Since returning from a four-week absence, Brown has now secured just 6-of-16 targets for 75 yards over the last two games. He looked a little more up to speed Thursday night, but he's still well below the top-tier fantasy option he once was. Better games should be on the way from Brown, but right now, he's difficult to trust in fantasy lineups. ",
+      "created": "2026-10-23 15:53:27",
+      "first_seen_pulled_at": "2026-10-23T16:14:16.749027+00:00"
+    }
+  ],
+  "narrative": "Two things worth your attention this week. Dak Prescott has the experts tangled up \u2014 he's landing anywhere from QB6 to QB20 depending on who you ask, with Mike Harmon slotting him all the way up at #5 while Nathan Jahnke buries him at #21. That's a standard deviation of 3.13, which is analyst-speak for \"nobody has any idea.\" Elsewhere, Josh Jacobs picked up a new Questionable tag with an illness, so keep an eye on that one before lineups lock."
+}
