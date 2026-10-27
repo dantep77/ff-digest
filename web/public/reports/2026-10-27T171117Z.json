@@ -1,0 +1,113 @@
+{
+  "id": "2026-10-27T171117Z",
+  "sent_at": "2026-10-27T17:11:17.896630+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a17e58-4a27-7acc-b2bd-b2976234843b",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "D'Andre Swift",
+      "position": "",
+      "detail": "New injury status: Questionable (Groin)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Drake London",
+      "position": "",
+      "detail": "New injury status: OUT (Hip)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Christian Watson",
+      "position": "",
+      "detail": "Status changed: OUT -> Questionable"
+    },
+    {
+      "type": "injury",
+      "player_name": "Nico Collins",
+      "position": "",
+      "detail": "New injury status: OUT (Concussion)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Lamar Jackson",
+      "position": "",
+      "detail": "New injury status: OUT (Hamstring)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Matthew Golden",
+      "position": "",
+      "detail": "New injury status: Questionable (Hip)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Breece Hall",
+      "position": "",
+      "detail": "New injury status: Questionable (Knee)"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.13) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 616148,
+      "player_id": 17275,
+      "title": "Quenton Nelson traded to Seattle Seahawks",
+      "link": "https://www.fantasypros.com/nfl/news/616148/quenton-nelson-traded-to-seattle-seahawks.php",
+      "category": "Commentary, News",
+      "impact": "Nelson was on an expiring contract and the Colts are staring at a rebuild, so selling Nelson makes sense. Seattle looks to have gotten a steal by sending a late day two pick and an early day three pick for Nelson, an eight time Pro-Bowlerand one of the more elite offensive linemen in the league. With Nelson on board and Zach Charbonnet and Jadarian Price set to return, the Seattle run game just got a lot better.",
+      "created": "2026-10-27 16:58:54",
+      "first_seen_pulled_at": "2026-10-27T17:11:12.147351+00:00"
+    },
+    {
+      "item_id": 616125,
+      "player_id": 28050,
+      "title": "Vega loane will miss some time with knee injury",
+      "link": "https://www.fantasypros.com/nfl/news/616125/vega-loane-will-miss-some-time-with-knee-injury.php",
+      "category": "Commentary, News, Injury",
+      "impact": "This is a tough injury for the Ravens, as loane has been having a great rookie season. The 14th-overall pick in this year's draft is reportedly dealing with a \"short-term\" issue, but it will likely force him to miss at least a game or two. Emery Jones Jr. stepped in for loane in Sunday's game. ",
+      "created": "2026-10-27 14:45:07",
+      "first_seen_pulled_at": "2026-10-27T17:11:12.147351+00:00"
+    },
+    {
+      "item_id": 616115,
+      "player_id": 8230,
+      "title": "Eagles D/ST dismal in loss Monday",
+      "link": "https://www.fantasypros.com/nfl/news/616115/eagles-dst-dismal-loss-monday.php",
+      "category": "Commentary, News, Results",
+      "impact": "Philadelphia's defense fell flat on their face on Monday. They allowed Dallas to score 38 points over the course of the night, and they weren't able to log any big plays to help out their own offense. This unit is usually much better than this and should bounce back sometime in the near future.",
+      "created": "2026-10-27 12:07:37",
+      "first_seen_pulled_at": "2026-10-27T17:11:12.147351+00:00"
+    },
+    {
+      "item_id": 616114,
+      "player_id": 16540,
+      "title": "Jake Elliott perfect in loss Monday",
+      "link": "https://www.fantasypros.com/nfl/news/616114/jake-elliott-perfect-loss-monday.php",
+      "category": "Commentary, News, Results",
+      "impact": "Elliott did his job on Monday night, knocking down all three of his attempted kicks in a loss to the Cowboys. He was left with a small fantasy total since they were all extra points, but he should bounce back sometime in the near future.",
+      "created": "2026-10-27 12:05:31",
+      "first_seen_pulled_at": "2026-10-27T17:11:12.147351+00:00"
+    },
+    {
+      "item_id": 616113,
+      "player_id": 18226,
+      "title": "Hollywood Brown racks up 30 yards Monday",
+      "link": "https://www.fantasypros.com/nfl/news/616113/hollywood-brown-racks-up-30-yards-monday.php",
+      "category": "Commentary, News, Results",
+      "impact": "The veteran wideout had to step up with Philadelphia missing multiple key wideouts due to injury on Monday night. He was able to rack up 30 yards on the night, but he was limited to just two catches and didn't get into the end zone at all. Fantasy managers shouldn't have high expectations for him moving forward.",
+      "created": "2026-10-27 12:03:59",
+      "first_seen_pulled_at": "2026-10-27T17:11:12.147351+00:00"
+    }
+  ],
+  "narrative": "The injury report did most of the talking this week, and none of it was good. Lamar Jackson (hamstring), Nico Collins (concussion), and Drake London (hip) are all officially OUT, so if you were counting on any of them, it's time to hit the waiver wire hard. The questionable pile is nearly as crowded: D'Andre Swift (groin), Breece Hall (knee), and Matthew Golden (hip) all picked up new tags, while Christian Watson at least trended the right way, upgrading from OUT to Questionable. Elsewhere, the experts can't agree on Dak Prescott at all \u2014 Mike Harmon has him as high as QB5 while Nathan Jahnke buries him at QB21, with the consensus scattered anywhere from 6 to 20. Translation: start Dak at your own risk, and check those Sunday inactives twice."
+}
