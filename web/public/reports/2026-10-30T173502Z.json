@@ -1,0 +1,77 @@
+{
+  "id": "2026-10-30T173502Z",
+  "sent_at": "2026-10-30T17:35:02.441492+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a18de1-1ac6-76bc-90b9-4f049f83976e",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "Garrett Wilson",
+      "position": "",
+      "detail": "New injury status: OUT (Knee)"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.13) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 616598,
+      "player_id": 23208,
+      "title": "Divine Deablo (forearm) listed questionable Sunday ",
+      "link": "https://www.fantasypros.com/nfl/news/616598/divine-deablo-forearm-listed-questionable-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Deablo returned to practice on Thursday. He should be on the favorable side of questionable heading into Sunday. ",
+      "created": "2026-10-30 17:33:26",
+      "first_seen_pulled_at": "2026-10-30T17:34:58.574758+00:00"
+    },
+    {
+      "item_id": 616597,
+      "player_id": 27187,
+      "title": "Billy Bowman Jr. (hamstring) listed questionable Sunday ",
+      "link": "https://www.fantasypros.com/nfl/news/616597/billy-bowman-jr-hamstring-listed-questionable-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Bowman returned to a limited practice on Thursday. He appears to be on the favorable side of questionable. ",
+      "created": "2026-10-30 17:32:31",
+      "first_seen_pulled_at": "2026-10-30T17:34:58.574758+00:00"
+    },
+    {
+      "item_id": 616596,
+      "player_id": 26456,
+      "title": "Mike Hall Jr. (ankle) off injury report Sunday ",
+      "link": "https://www.fantasypros.com/nfl/news/616596/mike-hall-jr-ankle-off-injury-report-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Hall is officially good to go being off the injury report heading into Sunday. ",
+      "created": "2026-10-30 17:29:12",
+      "first_seen_pulled_at": "2026-10-30T17:34:58.574758+00:00"
+    },
+    {
+      "item_id": 616595,
+      "player_id": 19823,
+      "title": "Daniel Thomas (ankle) listed questionable Sunday ",
+      "link": "https://www.fantasypros.com/nfl/news/616595/daniel-thomas-ankle-listed-questionable-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Thomas was limited in practice throughout the week. He will need to be monitored closer to kickoff. ",
+      "created": "2026-10-30 17:28:09",
+      "first_seen_pulled_at": "2026-10-30T17:34:58.574758+00:00"
+    },
+    {
+      "item_id": 616594,
+      "player_id": 18663,
+      "title": "Tytus Howard (concussion) listed questionable Sunday ",
+      "link": "https://www.fantasypros.com/nfl/news/616594/tytus-howard-concussion-listed-questionable-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Howard will have till Saturday to clear concussion protocol. ",
+      "created": "2026-10-30 17:27:16",
+      "first_seen_pulled_at": "2026-10-30T17:34:58.574758+00:00"
+    }
+  ],
+  "narrative": "Two things worth your attention this week. First, the experts can't agree on Dak Prescott \u2014 he's landing anywhere from #6 to #20 at QB, with Mike Harmon bullish at #5 while Nathan Jahnke buries him at #21. That's a standard deviation of 3.13, which is a polite way of saying nobody has a clue, so trust your own read. Second, and less ambiguous: Garrett Wilson is now listed OUT with a knee injury. Adjust your lineup accordingly."
+}
