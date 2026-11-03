@@ -1,0 +1,119 @@
+{
+  "id": "2026-11-03T185520Z",
+  "sent_at": "2026-11-03T18:55:20.911326+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a1a2c4-10ef-7ecc-9807-adb6b8b39c0c",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "D'Andre Swift",
+      "position": "",
+      "detail": "Status changed: Questionable -> OUT"
+    },
+    {
+      "type": "injury",
+      "player_name": "Joe Burrow",
+      "position": "",
+      "detail": "New injury status: IR ()"
+    },
+    {
+      "type": "injury",
+      "player_name": "Luther Burden III",
+      "position": "",
+      "detail": "New injury status: OUT (Concussion)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Rhamondre Stevenson",
+      "position": "",
+      "detail": "New injury status: OUT (Toe)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Mike Evans",
+      "position": "",
+      "detail": "New injury status: IR ()"
+    },
+    {
+      "type": "injury",
+      "player_name": "Cam Skattebo",
+      "position": "",
+      "detail": "New injury status: OUT ()"
+    },
+    {
+      "type": "injury",
+      "player_name": "Braelon Allen",
+      "position": "",
+      "detail": "New injury status: IR ()"
+    },
+    {
+      "type": "injury",
+      "player_name": "Tucker Kraft",
+      "position": "",
+      "detail": "New injury status: OUT ()"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.06) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 617523,
+      "player_id": 27925,
+      "title": "Lucas Scott released by Ravens",
+      "link": "https://www.fantasypros.com/nfl/news/617523/lucas-scott-released-by-ravens.php",
+      "category": "Commentary, News",
+      "impact": "Baltimore signed QB Austin Reed to the practice squad as the corresponding move. ",
+      "created": "2026-11-03 17:37:28",
+      "first_seen_pulled_at": "2026-11-03T18:55:16.024645+00:00"
+    },
+    {
+      "item_id": 617521,
+      "player_id": 27784,
+      "title": "Elliott Davison released by Patriots ",
+      "link": "https://www.fantasypros.com/nfl/news/617521/elliott-davison-released-by-patriots.php",
+      "category": "Commentary, News",
+      "impact": "Davison will figure to seek another opportunity. ",
+      "created": "2026-11-03 17:36:22",
+      "first_seen_pulled_at": "2026-11-03T18:55:16.024645+00:00"
+    },
+    {
+      "item_id": 617520,
+      "player_id": 16813,
+      "title": "Josh Tupou released by Giants ",
+      "link": "https://www.fantasypros.com/nfl/news/617520/josh-tupou-released-by-giants.php",
+      "category": "Commentary, News",
+      "impact": "Tupou will figure to seek another opportunity. ",
+      "created": "2026-11-03 17:35:37",
+      "first_seen_pulled_at": "2026-11-03T18:55:16.024645+00:00"
+    },
+    {
+      "item_id": 617518,
+      "player_id": 26138,
+      "title": "Blake Fisher (thumb) practicing this week",
+      "link": "https://www.fantasypros.com/nfl/news/617518/blake-fisher-thumb-practicing-this-week.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Fisher underwent thumb surgery for ulnar collateral ligament injury. His presence at practice is a good sign. ",
+      "created": "2026-11-03 17:34:34",
+      "first_seen_pulled_at": "2026-11-03T18:55:16.024645+00:00"
+    },
+    {
+      "item_id": 617517,
+      "player_id": 24081,
+      "title": "Jalyn Armour-Davis signs with Chargers ",
+      "link": "https://www.fantasypros.com/nfl/news/617517/jalyn-armour-davis-signs-with-chargers.php",
+      "category": "Commentary, News",
+      "impact": "Armour-Davis started 10 games for Tennessee last season before suffering a torn Achilles. ",
+      "created": "2026-11-03 17:33:07",
+      "first_seen_pulled_at": "2026-11-03T18:55:16.024645+00:00"
+    }
+  ],
+  "narrative": "Brutal week on the injury wire, folks. D'Andre Swift slid from Questionable to OUT, and he's got plenty of company \u2014 Luther Burden III (concussion), Rhamondre Stevenson (toe), Cam Skattebo and Tucker Kraft are all sidelined. Worse, Joe Burrow, Mike Evans and Braelon Allen have all landed on IR, so start making longer-term plans at those spots. The one real debate this week is Dak Prescott, where the experts can't agree on anything: Mike Harmon has him as high as QB5 while Nathan Jahnke buries him at QB21. That's a 16-spot spread \u2014 trust your own read, because the pros sure aren't helping."
+}
