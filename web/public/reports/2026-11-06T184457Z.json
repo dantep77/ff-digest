@@ -1,0 +1,70 @@
+{
+  "id": "2026-11-06T184457Z",
+  "sent_at": "2026-11-06T18:44:57.322179+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a1b22d-a138-79b7-8e59-c0aafec84c7d",
+  "movers": [],
+  "injuries": [],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.06) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 618177,
+      "player_id": 23282,
+      "title": "Sam Kamara to sign with Browns active roster",
+      "link": "https://www.fantasypros.com/nfl/news/618177/sam-kamara-to-sign-with-browns-active-roster.php",
+      "category": "Commentary, News",
+      "impact": "Kamara will add depth at defensive tackle for Cleveland. ",
+      "created": "2026-11-06 18:44:12",
+      "first_seen_pulled_at": "2026-11-06T18:44:53.001723+00:00"
+    },
+    {
+      "item_id": 618176,
+      "player_id": 22923,
+      "title": "Josh Whyle (concussion) not practicing Friday ",
+      "link": "https://www.fantasypros.com/nfl/news/618176/josh-whyle-concussion-not-practicing-friday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Whyle remains in concussion protocol. ",
+      "created": "2026-11-06 18:37:15",
+      "first_seen_pulled_at": "2026-11-06T18:44:53.001723+00:00"
+    },
+    {
+      "item_id": 618175,
+      "player_id": 23723,
+      "title": "Sean Rhyan (ankle) misses practice Friday ",
+      "link": "https://www.fantasypros.com/nfl/news/618175/sean-rhyan-ankle-misses-practice-friday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Rhyan is expected to avoid injured reserve. He'll still likely be sidelined on Sunday. ",
+      "created": "2026-11-06 18:36:30",
+      "first_seen_pulled_at": "2026-11-06T18:44:53.001723+00:00"
+    },
+    {
+      "item_id": 618174,
+      "player_id": 17563,
+      "title": "Zaire Franklin (shin) misses practice Friday ",
+      "link": "https://www.fantasypros.com/nfl/news/618174/zaire-franklin-shin-misses-practice-friday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Franklin will likely be ruled out on the official injury report. ",
+      "created": "2026-11-06 18:35:28",
+      "first_seen_pulled_at": "2026-11-06T18:44:53.001723+00:00"
+    },
+    {
+      "item_id": 618173,
+      "player_id": 14837,
+      "title": "Greg Van Roten (hamstring) to have decision made on status Saturday ",
+      "link": "https://www.fantasypros.com/nfl/news/618173/greg-van-roten-hamstring-to-have-decision-made-on-status-saturday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Van Roten had his practice window opened. He'll have a chance to make his return on Sunday. ",
+      "created": "2026-11-06 18:32:06",
+      "first_seen_pulled_at": "2026-11-06T18:44:53.001723+00:00"
+    }
+  ],
+  "narrative": "Quiet week on the movement front \u2014 just one name really splitting the room. Dak Prescott is the lone source of real expert chaos, with rankings stretched from 6th all the way to 20th among QBs. Mike Harmon is the believer, slotting him at #5, while Nathan Jahnke wants nothing to do with him at #21. That's a standard deviation of 3.06, which is a polite way of saying nobody agrees on what Dak is right now. Trust your own read \u2014 the experts certainly aren't going to settle it for you."
+}
