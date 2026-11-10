@@ -1,0 +1,101 @@
+{
+  "id": "2026-11-10T191012Z",
+  "sent_at": "2026-11-10T19:10:12.114759+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a1c6de-2e5c-7795-85f2-7905a8fd38a7",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "Bucky Irving",
+      "position": "",
+      "detail": "New injury status: OUT (Foot)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Matthew Golden",
+      "position": "",
+      "detail": "New injury status: OUT (shoulder)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Ollie Gordon II",
+      "position": "",
+      "detail": "New injury status: Questionable (Ankle)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Jayden Daniels",
+      "position": "",
+      "detail": "New injury status: OUT (Elbow)"
+    },
+    {
+      "type": "injury",
+      "player_name": "C.J. Stroud",
+      "position": "",
+      "detail": "New injury status: OUT (Concussion)"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.06) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 619065,
+      "player_id": 11616,
+      "title": "Keenan Allen traded to 49ers",
+      "link": "https://www.fantasypros.com/nfl/news/619065/keenan-allen-traded-to-49ers.php",
+      "category": "Commentary, News, Breaking",
+      "impact": "With Mike Evans still sidelined and Deebo Samuel working his way back to practice this week, San Francisco adds depth to its wide receiver room with a veteran in Allen. He is likely to remain off the fantasy radar unless both Evans and Samuel continue to miss time. ",
+      "created": "2026-11-10 18:41:55",
+      "first_seen_pulled_at": "2026-11-10T19:10:07.970558+00:00"
+    },
+    {
+      "item_id": 619064,
+      "player_id": 27166,
+      "title": "Cam Skattebo (hamstring) practices Tuesday ",
+      "link": "https://www.fantasypros.com/nfl/news/619064/cam-skattebo-hamstring-practices-tuesday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Skattebo remains on track to return for Thursday's game against the Commanders. He is expected to be a full-go. ",
+      "created": "2026-11-10 18:37:03",
+      "first_seen_pulled_at": "2026-11-10T19:10:07.970558+00:00"
+    },
+    {
+      "item_id": 619063,
+      "player_id": 23018,
+      "title": "J.J. McCarthy (hip) practices Tuesday ",
+      "link": "https://www.fantasypros.com/nfl/news/619063/jj-mccarthy-hip-practices-tuesday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "McCarthy remains on track to be good to go for Thursday's game against the Commanders. ",
+      "created": "2026-11-10 18:34:00",
+      "first_seen_pulled_at": "2026-11-10T19:10:07.970558+00:00"
+    },
+    {
+      "item_id": 619062,
+      "player_id": 11177,
+      "title": "Kirk Cousins identified as prime trade candidate for Vikings",
+      "link": "https://www.fantasypros.com/nfl/news/619062/kirk-cousins-identified-prime-trade-candidate-vikings.php",
+      "category": "Commentary, News",
+      "impact": "Minnesota is expected to make a move for a quarterback ahead of the deadline. This will remain a situation to monitor. ",
+      "created": "2026-11-10 18:30:55",
+      "first_seen_pulled_at": "2026-11-10T19:10:07.970558+00:00"
+    },
+    {
+      "item_id": 619061,
+      "player_id": 15802,
+      "title": "Tyreek Hill (knee) expected to be medically cleared in a few weeks",
+      "link": "https://www.fantasypros.com/nfl/news/619061/tyreek-hill-knee-expected-to-be-medically-cleared-few-weeks.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Hill will be an option for a team that doesn't land a wide receiver ahead of Tuesday's trade deadline.",
+      "created": "2026-11-10 18:12:58",
+      "first_seen_pulled_at": "2026-11-10T19:10:07.970558+00:00"
+    }
+  ],
+  "narrative": "The injury report did most of the damage this week. Jayden Daniels (elbow) and C.J. Stroud (concussion) are both ruled OUT, so two starting-caliber quarterbacks just vanished from your lineup options. Bucky Irving (foot) and Matthew Golden (shoulder) are also OUT, while Ollie Gordon II is Questionable with an ankle \u2014 keep an eye on that one up to kickoff. Meanwhile, the experts can't agree on Dak Prescott at all: Mike Harmon has him as high as QB5, Nathan Jahnke as low as QB21, with the full range spanning 6 to 20. Start him or sit him, somebody's going to tell you that you were wrong."
+}
