@@ -1,0 +1,70 @@
+{
+  "id": "2026-11-13T190202Z",
+  "sent_at": "2026-11-13T19:02:02.878506+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a1d649-cb67-785c-ae5b-58d3ba7fad2a",
+  "movers": [],
+  "injuries": [],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.06) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 619836,
+      "player_id": 25474,
+      "title": "Jon Gaines II (ankle) ruled out Sunday ",
+      "link": "https://www.fantasypros.com/nfl/news/619836/jon-gaines-ii-ankle-ruled-out-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Gaines was unable to practice all week due to an ankle injury. ",
+      "created": "2026-11-13 18:56:39",
+      "first_seen_pulled_at": "2026-11-13T19:01:58.997057+00:00"
+    },
+    {
+      "item_id": 619835,
+      "player_id": 18309,
+      "title": "Hjalte Froholdt (concussion) ruled out Sunday ",
+      "link": "https://www.fantasypros.com/nfl/news/619835/hjalte-froholdt-concussion-ruled-out-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Froholdt will be sidelined as he remains in concussion protocol. ",
+      "created": "2026-11-13 18:55:36",
+      "first_seen_pulled_at": "2026-11-13T19:01:58.997057+00:00"
+    },
+    {
+      "item_id": 619834,
+      "player_id": 22963,
+      "title": "George Pickens (hamstring) practices Friday ",
+      "link": "https://www.fantasypros.com/nfl/news/619834/george-pickens-hamstring-practices-friday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Pickens remained limited in practice on Thursday. He is on track to be good to go for Sunday's game against the 49ers. ",
+      "created": "2026-11-13 18:42:06",
+      "first_seen_pulled_at": "2026-11-13T19:01:58.997057+00:00"
+    },
+    {
+      "item_id": 619833,
+      "player_id": 26121,
+      "title": "Javon Bullard (ankle/knee) back at practice Friday ",
+      "link": "https://www.fantasypros.com/nfl/news/619833/javon-bullard-ankleknee-back-practice-friday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Bullard will have a chance to play on Sunday against the Vikings with his return to practice. ",
+      "created": "2026-11-13 18:40:54",
+      "first_seen_pulled_at": "2026-11-13T19:01:58.997057+00:00"
+    },
+    {
+      "item_id": 619832,
+      "player_id": 25291,
+      "title": "Lukas Van Ness (back) returns to practice Friday ",
+      "link": "https://www.fantasypros.com/nfl/news/619832/lukas-van-ness-back-returns-to-practice-friday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Van Ness will have a chance to play on Sunday against the Vikings with his return to practice. ",
+      "created": "2026-11-13 18:40:10",
+      "first_seen_pulled_at": "2026-11-13T19:01:58.997057+00:00"
+    }
+  ],
+  "narrative": "Quiet week on the movement front \u2014 just one name really splitting the room. Dak Prescott is the lone flashpoint, with experts pegging him anywhere from QB6 to QB20. Mike Harmon is all the way in at #5, while Nathan Jahnke has him buried at #21. That's a 3.06 standard deviation, which is analyst-speak for \"nobody has any idea.\" Trust your own read on this one, because the pros sure aren't helping."
+}
