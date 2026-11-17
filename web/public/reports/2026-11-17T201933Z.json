@@ -1,0 +1,95 @@
+{
+  "id": "2026-11-17T201933Z",
+  "sent_at": "2026-11-17T20:19:33.964654+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a1eb2a-33a2-725e-80c7-21cbba5b6ab4",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "Ja'Marr Chase",
+      "position": "",
+      "detail": "New injury status: Suspended ()"
+    },
+    {
+      "type": "injury",
+      "player_name": "Parker Washington",
+      "position": "",
+      "detail": "New injury status: Questionable (Hamstring)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Joe Burrow",
+      "position": "",
+      "detail": "New injury status: OUT (Toe)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Garrett Wilson",
+      "position": "",
+      "detail": "New injury status: IR (Knee)"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.06) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 620819,
+      "player_id": 18290,
+      "title": "T.J. Hockenson (wrist/chest) to progress ahead of Week 11",
+      "link": "https://www.fantasypros.com/nfl/news/620819/tj-hockenson-wristchest-to-progress-ahead-week-11.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Hockenson missed practice all of last week. He'll need to be monitored in practice this week. ",
+      "created": "2026-11-17 20:18:07",
+      "first_seen_pulled_at": "2026-11-17T20:19:29.277416+00:00"
+    },
+    {
+      "item_id": 620813,
+      "player_id": 27316,
+      "title": "Jacory Croskey-Merritt (groin) has practice window opened ",
+      "link": "https://www.fantasypros.com/nfl/news/620813/jacory-croskey-merritt-groin-has-practice-window-opened.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Croskey-Merritt has been on injured reserve with a groin injury. He'll have 21 days to be activated. ",
+      "created": "2026-11-17 19:04:37",
+      "first_seen_pulled_at": "2026-11-17T20:19:29.277416+00:00"
+    },
+    {
+      "item_id": 620809,
+      "player_id": 23370,
+      "title": "Riley Patterson perfect in loss Monday",
+      "link": "https://www.fantasypros.com/nfl/news/620809/riley-patterson-perfect-loss-monday.php",
+      "category": "Commentary, News, Results",
+      "impact": "Patterson did well in his debut with the Ravens on Monday night. He made all four of his attempted kicks over the course of the game, which left him responsible for eight of the team's 20 total points. He will likely retain the starting job for the foreseeable future with Tyler Loop (groin) currently on injured reserve.",
+      "created": "2026-11-17 19:00:43",
+      "first_seen_pulled_at": "2026-11-17T20:19:29.277416+00:00"
+    },
+    {
+      "item_id": 620808,
+      "player_id": 22883,
+      "title": "Dayo Odeyingbo (quad) not expected to return to practice this week",
+      "link": "https://www.fantasypros.com/nfl/news/620808/dayo-odeyingbo-quad-not-expected-to-return-to-practice-this-week.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Johnson was eligible to return this week  with a quad injury after being put on injured reserve on October 17.",
+      "created": "2026-11-17 18:29:40",
+      "first_seen_pulled_at": "2026-11-17T20:19:29.277416+00:00"
+    },
+    {
+      "item_id": 620807,
+      "player_id": 18239,
+      "title": "David Montgomery (groin) practices Tuesday ",
+      "link": "https://www.fantasypros.com/nfl/news/620807/david-montgomery-groin-practices-tuesday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Montgomery is trending towards having a chance to return for Thursday's game against the Colts. ",
+      "created": "2026-11-17 18:28:06",
+      "first_seen_pulled_at": "2026-11-17T20:19:29.277416+00:00"
+    }
+  ],
+  "narrative": "Cincinnati is the headline, and not in a good way: Joe Burrow is OUT with a toe issue and Ja'Marr Chase has been hit with a suspension, so that offense just got gutted in one swing. Garrett Wilson lands on IR with a knee, which is a season-altering blow for anyone rostering him. Parker Washington is questionable with a hamstring \u2014 keep an eye on that one into the weekend.\n\nMeanwhile, the experts can't agree on Dak Prescott at all: Mike Harmon has him QB5 while Nathan Jahnke buries him at QB21, with the full range spanning 6 to 20. That's about as wide a split as you'll see \u2014 trust your own read on this one."
+}
