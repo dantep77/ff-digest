@@ -1,0 +1,83 @@
+{
+  "id": "2026-11-20T192935Z",
+  "sent_at": "2026-11-20T19:29:35.895193+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a1fa6f-887a-7783-8c30-f64837168f7f",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "Davante Adams",
+      "position": "",
+      "detail": "New injury status: Questionable (Oblique)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Omarion Hampton",
+      "position": "",
+      "detail": "New injury status: IR ()"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.06) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 621397,
+      "player_id": 25453,
+      "title": "Dorian Williams (calf) ruled out Sunday ",
+      "link": "https://www.fantasypros.com/nfl/news/621397/dorian-williams-calf-ruled-out-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Williams was unable to practice all week due to a calf injury. ",
+      "created": "2026-11-20 19:23:33",
+      "first_seen_pulled_at": "2026-11-20T19:29:30.694143+00:00"
+    },
+    {
+      "item_id": 621396,
+      "player_id": 24565,
+      "title": "Christian Benford (groin) ruled out for Sunday",
+      "link": "https://www.fantasypros.com/nfl/news/621396/christian-benford-groin-ruled-out-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Benford was unable to practice all week as he continues to battle a groin injury. ",
+      "created": "2026-11-20 19:20:24",
+      "first_seen_pulled_at": "2026-11-20T19:29:30.694143+00:00"
+    },
+    {
+      "item_id": 621395,
+      "player_id": 18218,
+      "title": "A.J. Brown (hamstring) to miss multiple weeks",
+      "link": "https://www.fantasypros.com/nfl/news/621395/aj-brown-hamstring-to-miss-multiple-weeks.php",
+      "category": "Commentary, News, Injury, Breaking",
+      "impact": "It is another injury for Brown that will sideline him at least two more games. It is unclear if a stint on injured reserve is being considered. ",
+      "created": "2026-11-20 19:14:02",
+      "first_seen_pulled_at": "2026-11-20T19:29:30.694143+00:00"
+    },
+    {
+      "item_id": 621394,
+      "player_id": 19769,
+      "title": "Jaylinn Hawkins (knee) ruled out Sunday ",
+      "link": "https://www.fantasypros.com/nfl/news/621394/jaylinn-hawkins-knee-ruled-out-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Hawkins will be sidelined for his fourth straight game with a knee injury. ",
+      "created": "2026-11-20 19:12:06",
+      "first_seen_pulled_at": "2026-11-20T19:29:30.694143+00:00"
+    },
+    {
+      "item_id": 621393,
+      "player_id": 19272,
+      "title": "Nnamdi Madubuike (hamstring) ruled out Sunday ",
+      "link": "https://www.fantasypros.com/nfl/news/621393/nnamdi-madubuike-hamstring-ruled-out-sunday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Madubuike hurt his hamstring last Monday and did not practice all this week. He will be sidelined on Sunday. ",
+      "created": "2026-11-20 19:11:08",
+      "first_seen_pulled_at": "2026-11-20T19:29:30.694143+00:00"
+    }
+  ],
+  "narrative": "Dak Prescott is this week's biggest head-scratcher \u2014 the experts can't agree on him at all, with rankings stretched from 6 to 20 (std 3.06). Mike Harmon has him as high as QB5 while Nathan Jahnke buries him at QB21, so you're essentially picking which analyst you trust. On the injury front, Davante Adams picks up a Questionable tag with an oblique issue, so keep an eye on his status before lineups lock. Worse news for Omarion Hampton managers: he's been placed on IR. Plan accordingly."
+}
