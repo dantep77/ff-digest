@@ -1,0 +1,89 @@
+{
+  "id": "2026-11-24T214911Z",
+  "sent_at": "2026-11-24T21:49:11.904770+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a20f88-c723-7ebb-85f4-7c1e2f27d234",
+  "movers": [],
+  "injuries": [
+    {
+      "type": "injury",
+      "player_name": "Kenneth Walker III",
+      "position": "",
+      "detail": "New injury status: Questionable (Glute)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Matthew Golden",
+      "position": "",
+      "detail": "New injury status: OUT (Shoulder)"
+    },
+    {
+      "type": "injury",
+      "player_name": "Drake London",
+      "position": "",
+      "detail": "New injury status: OUT (Knee)"
+    }
+  ],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.06) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 622382,
+      "player_id": 27339,
+      "title": "Denzel Boston (toe) not practicing Tuesday",
+      "link": "https://www.fantasypros.com/nfl/news/622382/denzel-boston-toe-not-practicing-tuesday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "The Browns are coming off a bye week and have until Sunday night to get ready for the Raiders. That will hopefully leave enough time for Boston to be ready, but this is not an encouraging start to the practice week for the rookie wideout. If Boston cannot go, Jerry Jeudy would likely see his snaps go up. ",
+      "created": "2026-11-24 18:18:51",
+      "first_seen_pulled_at": "2026-11-24T21:49:07.459376+00:00"
+    },
+    {
+      "item_id": 622381,
+      "player_id": 19784,
+      "title": "Micah Parson (knee) listed as questionable for Week 12",
+      "link": "https://www.fantasypros.com/nfl/news/622381/micah-parson-knee-listed-questionable-week-12.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Parsons has yet to suit up for the Packers so far this season, but that is largely expected to change this week despite the questionable tag. ",
+      "created": "2026-11-24 18:12:29",
+      "first_seen_pulled_at": "2026-11-24T21:49:07.459376+00:00"
+    },
+    {
+      "item_id": 622380,
+      "player_id": 18269,
+      "title": "Josh Jacobs (finger) questionable for Wednesday's game",
+      "link": "https://www.fantasypros.com/nfl/news/622380/josh-jacobs-finger-questionable-wednesdays-game.php",
+      "category": "Commentary, News, Injury",
+      "impact": "With the Packers coming off a bye week, Jacobs practiced in limited fashion Monday and was listed as questionable Tuesday. If Jacobs is ruled out, the trio of Chris Brooks, Kaleb Johnson, and MarShawn Lloyd would likely split the backfield load for the Packers once again.",
+      "created": "2026-11-24 18:09:29",
+      "first_seen_pulled_at": "2026-11-24T21:49:07.459376+00:00"
+    },
+    {
+      "item_id": 622379,
+      "player_id": 23021,
+      "title": "Kenneth Walker III (groin) practicing Tuesday",
+      "link": "https://www.fantasypros.com/nfl/news/622379/kenneth-walker-iii-groin-practicing-tuesday.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Walker III will see limited work on the practice field, as the dynamic running back looks to return from a two-game absence against the Buffalo Bills Thanksgiving night. Emmett Johnson would be in line for an RB1 role if Walker III is unable to progress enough on a limited practice week for head coach Andy Reid against the Bills.",
+      "created": "2026-11-24 18:02:22",
+      "first_seen_pulled_at": "2026-11-24T21:49:07.459376+00:00"
+    },
+    {
+      "item_id": 622335,
+      "player_id": 26037,
+      "title": "Colbie Young catches TD in Week 11",
+      "link": "https://www.fantasypros.com/nfl/news/622335/colbie-young-catches-td-week-11.php",
+      "category": "Commentary, News, Results",
+      "impact": "The rookie hauled in a touchdown pass from Joe Burrow in the third quarter for the first touchdown catch of his career. Young now has three receptions for 13 yards in eight games for the Bengals this season as he looks to carve out a larger role in the Cincy passing attack. He will face the Saints in Week 12.",
+      "created": "2026-11-24 11:54:47",
+      "first_seen_pulled_at": "2026-11-24T21:49:07.459376+00:00"
+    }
+  ],
+  "narrative": "Injury news dominates this week, and it's not the good kind. Drake London (knee) and Matthew Golden (shoulder) are both officially OUT, so if either was penciled into your lineup, start making other plans now. Kenneth Walker III is Questionable with a glute issue \u2014 worth monitoring right up to kickoff. On the ranking front, Dak Prescott is the week's great debate: he lands anywhere from QB5 (Mike Harmon) to QB21 (Nathan Jahnke), with the experts spread across a 6-to-20 range. Trust your own read on that one, because nobody else agrees."
+}
