@@ -1,0 +1,70 @@
+{
+  "id": "2026-11-27T203221Z",
+  "sent_at": "2026-11-27T20:32:21.641457+00:00",
+  "subject": "Your FF Digest",
+  "scoring": "PPR",
+  "resend_id": "01a21eb5-825b-7060-a9e1-d8da204bc4fb",
+  "movers": [],
+  "injuries": [],
+  "disagreements": [
+    {
+      "type": "disagreement",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "detail": "High expert disagreement: rank 6-20 (std 3.06) -- highest: Mike Harmon (#5), lowest: Nathan Jahnke (#21)"
+    }
+  ],
+  "news": [
+    {
+      "item_id": 622946,
+      "player_id": 19821,
+      "title": "Isaiah Rodgers Sr. (quad) ruled out for Week 12",
+      "link": "https://www.fantasypros.com/nfl/news/622946/isaiah-rodgers-sr-quad-ruled-out-week-12.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Rodgers remains week-to-week with a quad injury. ",
+      "created": "2026-11-27 20:06:34",
+      "first_seen_pulled_at": "2026-11-27T20:32:18.212058+00:00"
+    },
+    {
+      "item_id": 622945,
+      "player_id": 22688,
+      "title": "Christian Darrisaw (shoulder) ruled out for Week 12",
+      "link": "https://www.fantasypros.com/nfl/news/622945/christian-darrisaw-shoulder-ruled-out-week-12.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Darrisaw will remain sidelined with a shoulder injury for the Vikings. ",
+      "created": "2026-11-27 20:05:54",
+      "first_seen_pulled_at": "2026-11-27T20:32:18.212058+00:00"
+    },
+    {
+      "item_id": 622943,
+      "player_id": 19562,
+      "title": "Juwan Johnson (hamstring/wrist) ruled out for Week 12",
+      "link": "https://www.fantasypros.com/nfl/news/622943/juwan-johnson-hamstringwrist-ruled-out-week-12.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Johnson will not suit up after being unable to practice, with Noah Fant and Oscar Delp in line for increased snaps against the Bengals for head coach Kellen Moore Sunday.",
+      "created": "2026-11-27 20:00:50",
+      "first_seen_pulled_at": "2026-11-27T20:32:18.212058+00:00"
+    },
+    {
+      "item_id": 622938,
+      "player_id": 23107,
+      "title": "Jordan Addison (thumb) ruled out for Week 12",
+      "link": "https://www.fantasypros.com/nfl/news/622938/jordan-addison-thumb-ruled-out-week-12.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Addison continues to work back from a thumb injury for head coach Kevin O'Connell, with Tai Felton, Jauan Jennings, and Myles Price to see increased snaps behind WR1 Justin Jefferson against the Falcons.",
+      "created": "2026-11-27 19:56:07",
+      "first_seen_pulled_at": "2026-11-27T20:32:18.212058+00:00"
+    },
+    {
+      "item_id": 622935,
+      "player_id": 23821,
+      "title": "Will Mallory (hamstring) ruled out for Week 12",
+      "link": "https://www.fantasypros.com/nfl/news/622935/will-mallory-hamstring-ruled-out-week-12.php",
+      "category": "Commentary, News, Injury",
+      "impact": "Mallory will remain sidelined with a hamstring injury. ",
+      "created": "2026-11-27 19:51:07",
+      "first_seen_pulled_at": "2026-11-27T20:32:18.212058+00:00"
+    }
+  ],
+  "narrative": "Quiet week on the movement front, with just one storyline worth your attention: Dak Prescott has the experts talking past each other. His rankings stretch from #6 all the way down to #20, with a standard deviation of 3.06 \u2014 that's a real split, not rounding noise. Mike Harmon is highest on him at #5, while Nathan Jahnke has him buried at #21. If you're starting Dak this week, you're essentially picking a side in that argument."
+}
